@@ -1,6 +1,9 @@
 \ProvidesPackage{cv}
 
 \usepackage{fontspec} % Fontspec requires rendering with xelatex.
+%\usepackage{xltxtra} % no help w en dash
+%\usepackage{xunicode} % no help w en dash
+
 \setmainfont{Garamond}
 \usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
 %\pagestyle{empty}
@@ -11,3 +14,8 @@
 %\raggedright
 \setlength{\parskip}{11pt plus 1pt minus 1pt}
 \setlength{\parindent}{0pt}
+
+%\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
+% no help w en dash
+
+\newcommand{\ndash}{–}
