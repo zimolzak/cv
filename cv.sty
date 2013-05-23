@@ -3,10 +3,13 @@
 \usepackage{fontspec} % Fontspec requires rendering with xelatex.
 %\usepackage{xltxtra} % no help w en dash
 %\usepackage{xunicode} % no help w en dash
-
 %\setmainfont{Garamond}
 \setmainfont{Times New Roman}
+
 \usepackage[top=1in, bottom=2in, left=1.25in, right=1in]{geometry}
+% Margins VERY ad hoc. 1.25 is so we can outdent the SECTION heading.
+% 2in is just because it looks good. I suspect fancyhdr is doing
+% something weird to page geometry.
 %\pagestyle{empty}
 %\linespread{0.95}
 \special{papersize=8.5in,11in}
@@ -16,14 +19,13 @@
 \setlength{\parskip}{11pt plus 1pt minus 1pt}
 \setlength{\parindent}{0pt}
 
-%\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
-% no help w en dash
-
 \newcommand{\ndash}{–}
 
 \usepackage[compact]{titlesec}  
 \titlespacing{\section}{-0.25in}{0pt}{-10pt}
 \titlespacing{\subsection}{0pt}{0pt}{-12pt}
+% don't know why -10pt after SECTION looks good, whereas it's -12 for
+% subsection.
 \titleformat*{\section}{\large\itshape\bfseries}
 \titleformat*{\subsection}{\normalsize\bfseries}
 
