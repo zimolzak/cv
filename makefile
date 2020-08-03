@@ -1,14 +1,25 @@
+FILES = zimolzak-cv.pdf zimolzak-cv.docx
+
+all: $(FILES)
+
+zimolzak-cv.docx: zimolzak-cv.tex
+	pandoc -o $@ $<
+
 zimolzak-cv.pdf : zimolzak-cv.tex
-	xelatex zimolzak-cv.tex
-	xelatex zimolzak-cv.tex
-	cp zimolzak-cv.pdf ~/Dropbox
+	xelatex $<
+	xelatex $<
+	cp $@ ~/Dropbox
 
-# This PDF target will run ONLY if the LaTeX file is changed after the
-# PDF. If it depended on target 'dropbox' it would always LaTeX the
-# doc, which is unnecessary.
+# The PDF target above will run ONLY if the LaTeX file is changed
+# after the PDF. If it depended on target 'dropbox' it would always
+# LaTeX the doc, which is unnecessary.
 
-.PHONY: dropbox
+.PHONY: dropbox clean
 dropbox :
 	cp zimolzak-cv.pdf ~/Dropbox
 
-# This target exists so you can force the copy.
+# The phony target above exists so you can force the copy without
+# re-LaTeXing and affecting date.
+
+clean:
+	rm -f $(FILES)
