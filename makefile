@@ -1,6 +1,9 @@
-FILES = zimolzak-cv.pdf zimolzak-cv.docx
+FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex
 
 all: $(FILES)
+
+zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py
+	python preprocess.py > $@
 
 zimolzak-cv.docx: zimolzak-cv.tex
 	pandoc -o $@ $<
@@ -22,4 +25,4 @@ dropbox :
 # re-LaTeXing and affecting date.
 
 clean:
-	rm -f $(FILES)
+	rm -f $(FILES) *.aux *.log
