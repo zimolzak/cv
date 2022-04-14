@@ -1,5 +1,7 @@
 # Andrew J. Zimolzak, Curriculum Vitae
 
+zimolzak@bcm.edu
+
 # Education
 
 **Michigan State University.** 8/13/1998--5/3/2002.\
