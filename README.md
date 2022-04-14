@@ -526,7 +526,7 @@ Medicine.\
 **NEJM Group Open Forum.** Moderator for a forum where authors discuss
 their NEJM articles. 2/2015-3/2015.\
 **F1000Research,** reviewer. 3/2021-present. See also
-https://f1000research.com/articles/9-1186\
+https://f1000research.com/articles/9-1186
 **JCO Clinical Cancer Informatics,** reviewer. 2/2020-present.\
 **Digital Health,** reviewer. 12/2019-present.\
 **JMIR Research Protocols,** reviewer. 1/2019-present.\

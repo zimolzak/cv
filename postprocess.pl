@@ -11,5 +11,6 @@ while(<>){
     }
     s/ \{.*unnumbered\}//;
     s/--/-/g;
+    s/9-1186\\/9-1186/;
     print if $printing;
 }
