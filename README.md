@@ -9,7 +9,7 @@ zimolzak@bcm.edu
 BS in Biochemistry with High Honor. Member of the Honors College.
 
 **Washington University in St. Louis School of Medicine.**
-8/19/2002--/6/.\
+8/19/2002--5/6/2007.\
 Campus Box 8021, 660 S. Euclid; St. Louis, MO 63110.\
 MD.
 
@@ -48,7 +48,7 @@ medicine service, supervising house staff and students. Supervisors:
 Hardeep Singh, Laura Petersen, Chris Amos, Andrew Caruso.
 
 **Clinical informatician,** Massachusetts Veterans Epidemiology Research
-and Information Center (MAVERIC), 10/20/--11/9/2018. **Assistant
+and Information Center (MAVERIC), 10/20/2014--11/9/2018. **Assistant
 professor,** Boston University School of Medicine, 8/2016--11/2018, and
 reciprocal appointment as Lecturer, Harvard Medical School. My work
 enabled a **genomic precision medicine** platform and learning health
@@ -69,7 +69,7 @@ Supervisors (research): Nhan Do, Valmeek Kudesia, Mary Brophy, Louis
 Fiore. Clinical: Steven Simon, Jay Orlander, Anthony Breu.
 
 **Research collaborator,** Massachusetts Institute of Technology,
-Laboratory for Computational Physiology, 12/6/2013--/2016. Lead
+Laboratory for Computational Physiology, 12/6/2013--9/2016. Lead
 clinician on a project to develop a data-based definition of acute
 kidney injury, using records of 11,000 patients from MIMIC II, an open
 collection of intensive care unit data collected over 8 years.
@@ -77,8 +77,8 @@ Collaborated on writing and submission of an NIH R25 grant. Professor:
 Leo Celi, Harvard-MIT Division of Health Science and Technology.
 
 **Research fellow,** Children's Hospital Informatics Program,
-Intelligent Health Laboratory, /1/--/31/2014. Analyzed pharmacy claims
-to develop predictive models of medication adherence. Used **SAS
+Intelligent Health Laboratory, 7/1/2011--1/31/2014. Analyzed pharmacy
+claims to develop predictive models of medication adherence. Used **SAS
 software and multivariable logistic regression** to analyze 61 million
 enrollment records, 200 million medical claims, and 90 million
 prescription claims. I designed and wrote all code to perform the
@@ -99,7 +99,7 @@ of fractures. Supervise nurse practitioners and physician assistants.
 Supervisor: David Meenan.
 
 **Internal medicine chief resident,** Saint Louis University Hospital,
-7/1/2010--/30/. Managed and scheduled 130 residents. Academic
+7/1/2010--6/30/2011. Managed and scheduled 130 residents. Academic
 appointment as instructor in internal medicine and hospital appointment
 as physician. Attended on inpatient & outpatient general medicine in
 university and VA hospitals. Accepted transfers, supervised and improved
@@ -213,7 +213,7 @@ through 12/31/2021.\
 **American College of Physicians** member 2010--present.\
 **American Medical Informatics Association** member 2011--present.\
 **Early career physician council,** Massachusetts American College of
-Physicians, 9/--2015.\
+Physicians, 9/2011--2015.\
 **USMLE** passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007, Step
 3 5/2010.\
 **ACLS** and BLS certified.
@@ -499,7 +499,7 @@ Pharmacoepidemiology & Therapeutic Risk Management (ICPE). Boston;
 Leatherman SM, Riley KE, Woods PA, Zimolzak AJ, Majahalme N, Kudesia V,
 Ferguson RE, Fiore LD. **Ascertainment of Clinical Outcomes from
 Electronic Medical Record Data for Point-of-Care Clinical Trials.**
-HSR&D / QUERI National Conference. Philadelphia; 7/--/.
+HSR&D / QUERI National Conference. Philadelphia; 7/8--10/2015.
 
 Zimolzak AJ. **Early Detection of Statin Adherence/Nonadherence.**
 National Library of Medicine Informatics Training Conference, Salt Lake
@@ -538,7 +538,7 @@ https://f1000research.com/articles/9-1186\
 committee member, panel moderator. 9/26/2013.\
 **Critical Data.** Planning committee member, and participant. "Data
 marathon" events at MIT. Assisted my team with SQL data pull, predictive
-modeling, clinical expertise. 1/3/2014--/7/2014, and
+modeling, clinical expertise. 1/3/2014--1/7/2014, and
 9/5/2014--9/7/2014.\
 **Computing in Cardiology.** Planning committee & reviewer. Three day
 conference for international participants from medicine, physics,

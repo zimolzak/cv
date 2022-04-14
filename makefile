@@ -1,4 +1,4 @@
-FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md
+FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex
 
 all: $(FILES)
 
@@ -26,7 +26,10 @@ dropbox :
 
 # New stuff for pandoc -> perl -> markdown README
 
-README.md: zimolzak-cv-pre.tex postprocess.pl
+pandocme.tex: zimolzak-cv-pre.tex
+	perl -pe 's/\\linebreak\[0\]//g' $< > $@
+
+README.md: pandocme.tex postprocess.pl
 	pandoc -o $@ $<
 	perl -i postprocess.pl $@
 
