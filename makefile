@@ -28,6 +28,7 @@ dropbox :
 
 pandocme.tex: zimolzak-cv-pre.tex
 	perl -pe 's/\\linebreak\[0\]//g' $< > $@
+# Have to remove \linebreak commands BEFORE pandoc receives the .tex
 
 README.md: pandocme.tex postprocess.pl
 	pandoc -o $@ $<
