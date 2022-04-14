@@ -5,3 +5,5 @@
 *.doc
 *.docx
 .DS_Store
+.idea/
+secrets.py
