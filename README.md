@@ -1,17 +1,6 @@
-# Personal Information {#personal-information .unnumbered}
+# Andrew J. Zimolzak, Curriculum Vitae
 
-  -------------------------- -------------------
-  **Research address:**      **Home address:**
-  x-office                   x-home
-  x-ocity                    x-hcity
-  x-phone                    x-mobile
-  zimolzak\@bcm.edu          
-                             
-  **Birth date:** x-bday     
-  **Birthplace:** x-bplace   
-  -------------------------- -------------------
-
-# Education {#education .unnumbered}
+# Education
 
 **Michigan State University.** 8/13/1998--5/3/2002.\
 150 Administration Building; East Lansing, MI 48824-0210.\
@@ -35,7 +24,7 @@ Internal medicine PGY 2 and 3.
 25 Shattuck Street; Boston, MA 02115.\
 MMSc in Medical Informatics.
 
-# Professional Experience {#professional-experience .unnumbered}
+# Professional Experience
 
 **Clinical informatician** at the VA Center for Innovations in Quality,
 Effectiveness and Safety (IQuESt), and at the Baylor Institute for
@@ -155,7 +144,7 @@ weeks. Took 9600 words of notes with extensive mathematical notation and
 wrote around 2000 lines of code. In-class exercises average 95%,
 projects average 100%.)
 
-# Grants {#grants .unnumbered}
+# Grants
 
 Co-PI: **Safer Dx e-measures to reduce preventable delays in cancer
 diagnosis.** Gordon and Betty Moore Foundation. 11/2019--5/2021. GBMF
@@ -170,7 +159,7 @@ Co-Investigator: **The Safer Dx Learning Lab: A Demonstration Project
 for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 6/30/2017--5/31/2020. GBMF 5498. Amount: \$3,525,397 for 36 months.
 
-# Mentoring relationships {#mentoring-relationships .unnumbered}
+# Mentoring relationships
 
 **Max Yu** (informal). 12/2021--present. Computer science undergraduate
 coming on board to assist in analysis. Mentored in clinical topics, VA
@@ -207,7 +196,7 @@ student in computer science and molecular biology at MIT. Mentored in
 research record keeping, clinical topics, journal submission, and
 revision.
 
-# Credentials and Memberships {#credentials-and-memberships .unnumbered}
+# Credentials and Memberships
 
 **American Board of Internal Medicine** certified 8/10/2011, valid
 through 12/31/2021.\
@@ -227,7 +216,7 @@ Physicians, 9/--2015.\
 3 5/2010.\
 **ACLS** and BLS certified.
 
-# Honors and Awards {#honors-and-awards .unnumbered}
+# Honors and Awards
 
 **Excellence in Collaboration,** Baylor College of Medicine Datathon,
 October 2020. Project entitled "Understanding predictors of severe
@@ -249,7 +238,7 @@ Michigan State University sophomores.\
 Competitive four-year full tuition scholarship awarded to 35 students
 out of the incoming class of about 10,000.
 
-# Publications {#publications .unnumbered}
+# Publications
 
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
 Detection Using Refined and Physiological- Feature Augmented Urine
@@ -321,7 +310,7 @@ Zimolzak AJ. **Medication Adherence: How Should We Measure It, and Can
 We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
-# Presentations {#presentations .unnumbered}
+# Presentations
 
 Zimolzak AJ, Singh H, Murphy DR, Wei L, Memon SA, Upadhyay D, Korukonda
 S, Zubkoff L, Sittig DF. **Translating electronic health record-based
@@ -519,7 +508,7 @@ Jonikas M, Kohane IS, Mandl KD. **Early Statin Adherence As a Predictor
 of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
-# Professional Service {#professional-service .unnumbered}
+# Professional Service
 
 **Research Data Security Committee,** IQuESt. 2/2022--present.\
 **House Staff Research Symposium,** reviewer. BCM department of
@@ -556,7 +545,7 @@ engineering and computer science. 9/8/2014--9/10/2014.\
 Meeting.** Planning committee, moderator for *Jeopardy!*-style quiz
 tournament, reviewer for abstract/poster competition, 2014--2016.
 
-# References {#references .unnumbered}
+# References
 
   ----------------- ------------------------------------- ----------------------- ------------
   Hardeep Singh     2002 Holcombe Blvd                    Houston TX 77030        x-singh

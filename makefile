@@ -1,4 +1,4 @@
-FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex
+FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md
 
 all: $(FILES)
 
@@ -23,6 +23,12 @@ dropbox :
 
 # The phony target above exists so you can force the copy without
 # re-LaTeXing and affecting date.
+
+# New stuff for pandoc -> perl -> markdown README
+
+README.md: zimolzak-cv-pre.tex postprocess.pl
+	pandoc -o $@ $<
+	perl -i postprocess.pl $@
 
 clean:
 	rm -f $(FILES) *.aux *.log
