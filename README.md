@@ -318,20 +318,19 @@ Zimolzak AJ, Singh H, Murphy DR, Wei L, Memon SA, Upadhyay D, Korukonda
 S, Zubkoff L, Sittig DF. **Translating electronic health record-based
 patient safety research algorithms to multiple clinical sites.**
 American Medical Informatics Association Clinical Informatics
-Conference, selected for oral presentation. Houston, 11/2/2021.
+Conference, selected for oral presentation. Houston, 5/25/2022.
 
 Murphy DR, Zimolzak AJ, Wei L, Jolly P, Offner A, Sittig DF, Singh H.
 **Developing Digital Quality Measures to Assess Potential Missed
 Opportunities in Cancer Diagnosis.** American Medical Informatics
-Association Clinical Informatics Conference, selected for oral
-presentation. Houston, 11/2/2021.
+Association Clinical Informatics Conference. Houston, 5/25/2022.
 
 Kapadia P, Zimolzak AJ, Murphy DR, Upadhyay D, Mushtaq U, Mir U,
 Korukonda S, Murugaesh Rekha R, Wei L, Lyratzopoulos G, Abel G, Offner
 A, Singh H. **A Digital Quality Measure of Emergency Cancer Diagnosis
 Using EHR Data in Two Large Health Systems.** American Medical
 Informatics Association Clinical Informatics Conference, selected for
-oral presentation. Houston, 11/2/2021.
+oral presentation. Houston, 5/25/2022.
 
 Zimolzak AJ. **Translating Electronic Health Record-Based Patient Safety
 Algorithms from Research to Clinical Practice.** Invited seminar talk,
