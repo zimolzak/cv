@@ -1,5 +1,7 @@
 FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex
 
+.PHONY: dropbox clean all
+
 all: $(FILES)
 
 zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py
@@ -17,14 +19,16 @@ zimolzak-cv.pdf : zimolzak-cv.tex
 # after the PDF. If it depended on target 'dropbox' it would always
 # LaTeX the doc, which is unnecessary.
 
-.PHONY: dropbox clean
 dropbox :
 	cp zimolzak-cv.pdf ~/Dropbox
 
 # The phony target above exists so you can force the copy without
 # re-LaTeXing and affecting date.
 
-# New stuff for pandoc -> perl -> markdown README
+
+
+
+####### New stuff for pandoc -> perl -> README.md
 
 pandocme.tex: zimolzak-cv-pre.tex
 	perl -pe 's/\\linebreak\[0\]//g' $< > $@
@@ -33,6 +37,9 @@ pandocme.tex: zimolzak-cv-pre.tex
 README.md: pandocme.tex postprocess.pl
 	pandoc -o $@ $<
 	perl -i postprocess.pl $@
+
+
+
 
 clean:
 	rm -f $(FILES) *.aux *.log
