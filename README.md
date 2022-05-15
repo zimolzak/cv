@@ -167,10 +167,9 @@ for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 coming on board to assist in analysis. Mentored in clinical topics, VA
 data environment, and regulatory compliance.
 
-**Theresa Nguyen** (informal). 9/2021-present. Fellow applying for
-career development award that includes me on mentorship team (award
-submitted, pending decision). Mentored in VA data availability and
-predictive model application.
+**Theresa Nguyen** (formal mentoring). 9/2021-present. Fellow awarded
+Department of Medicine grant that includes me on mentorship team.
+Mentoring in VA data availability and predictive model application.
 
 **Paarth Kapadia** (informal). 1/2020-present. MD student at Baylor
 College of Medicine doing year-long research experience. Mentored in
