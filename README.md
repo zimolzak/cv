@@ -219,6 +219,9 @@ Physicians, 9/2011-2015.\
 
 # Honors and Awards
 
+**Most innovative use of data,** Baylor College of Medicine Datathon,
+April 2022. Project entitled "The association of biased language in
+medical text with diagnostic error."\
 **Excellence in Collaboration,** Baylor College of Medicine Datathon,
 October 2020. Project entitled "Understanding predictors of severe
 COVID-19 outcomes." One of the few projects to achieve end-to-end
@@ -240,6 +243,14 @@ Competitive four-year full tuition scholarship awarded to 35 students
 out of the incoming class of about 10,000.
 
 # Publications
+
+Zimolzak AJ, *et al.* **Lessons Learned from an Enterprise-Wide Clinical
+Datathon.** Journal of Clinical and Translational Science. *Under
+revision, May 2022.*
+
+Zimolzak AJ, *et al.* **Translating electronic health record-based
+patient safety algorithms from research to clinical practice at multiple
+sites.** BMJ Health & Care Informatics. *Under revision, May 2022.*
 
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
 Detection Using Refined and Physiological- Feature Augmented Urine
