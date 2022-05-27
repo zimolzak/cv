@@ -244,14 +244,6 @@ out of the incoming class of about 10,000.
 
 # Publications
 
-Zimolzak AJ, *et al.* **Lessons Learned from an Enterprise-Wide Clinical
-Datathon.** Journal of Clinical and Translational Science. *Under
-revision, May 2022.*
-
-Zimolzak AJ, *et al.* **Translating electronic health record-based
-patient safety algorithms from research to clinical practice at multiple
-sites.** BMJ Health & Care Informatics. *Under revision, May 2022.*
-
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
 Detection Using Refined and Physiological- Feature Augmented Urine
 Output.** Scientific Reports 11(1):19561.
