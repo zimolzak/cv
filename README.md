@@ -324,6 +324,10 @@ thesis, 5/17/2013.
 
 # Presentations
 
+Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
+Coast Consortia Artificial Intelligence in Healthcare Symposium.
+5/18/2022.
+
 Zimolzak AJ, Singh H, Murphy DR, Wei L, Memon SA, Upadhyay D, Korukonda
 S, Zubkoff L, Sittig DF. **Translating electronic health record-based
 patient safety research algorithms to multiple clinical sites.**
