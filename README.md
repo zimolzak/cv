@@ -254,8 +254,12 @@ out of the incoming class of about 10,000.
 # Publications
 
 Zimolzak AJ, *et al.* **Lessons Learned from an Enterprise-Wide Clinical
-Datathon.** Journal of Clinical and Translational Science. *Under
-revision, August 2022.*
+Datathon.** *Under revision, August 2022.*
+
+Meyer AND, Singh H, Zimolzak AJ, Wei L, Choi DT, Marinez A, Murphy DR.
+**Evaluation for cancer during the COVID-19 pandemic: an observational
+study using national veterans affairs electronic health record data.**
+*Accepted July 2022, in press.*
 
 Zimolzak AJ, Singh H, Murphy DR, *et al.* (2022) **Translating
 electronic health record-based patient safety algorithms from research
@@ -559,6 +563,8 @@ Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Professional Service
 
+**Electronic laboratory notebook working group,** Baylor College of
+Medicine. 10/2021-7/2022.\
 **Research Data Security Committee,** IQuESt. 2/2022-present.\
 **House Staff Research Symposium,** reviewer. BCM department of
 medicine. 4/2022.\
