@@ -3,6 +3,7 @@
 
 # Usual usage: python preprocess.py > zimolzak-cv.tex
 
+from sys import argv
 from secrets import DATA
 
 print("""%% Automatically generated file
@@ -18,5 +19,10 @@ print("""%% Automatically generated file
 with open('zimolzak-cv-pre.tex') as fh:
     for line in fh:
         for k, v in DATA.items():
-            line = line.replace(k, v)
+            if len(argv) == 1:
+                line = line.replace(k, v)
+            elif argv[1] == '--censor':
+                line = line.replace(k, '-')
+            else:
+                line = line.replace(k, v)
         print(line, end='')
