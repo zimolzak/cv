@@ -148,6 +148,15 @@ projects average 100%.)
 
 # Grants
 
+Co-Investigator: **An Electronic Trigger Tool to Detect Missed
+Opportunities for Barrett's Esophagus Screening.** Baylor College of
+Medicine, Department of Medicine Physician-Scientist/Investigator
+Faculty Development Award. 07/01/2022-06/30/2024. Amount: \$207,906.
+
+Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnoiss
+Improvement Savety Center (DISCovery).** VHA National Center for Patient
+Safety. FY 2022-FY 2024 (3 years). Amount: \$1,185,000.
+
 Co-PI: **Safer Dx e-measures to reduce preventable delays in cancer
 diagnosis.** Gordon and Betty Moore Foundation. 11/2019-5/2021. GBMF
 8838. Amount: \$520,162 for 18 months. Drafted the majority of the
@@ -246,14 +255,15 @@ out of the incoming class of about 10,000.
 
 Zimolzak AJ, *et al.* **Lessons Learned from an Enterprise-Wide Clinical
 Datathon.** Journal of Clinical and Translational Science. *Under
-revision, May 2022.*
+revision, August 2022.*
 
-Zimolzak AJ, *et al.* **Translating electronic health record-based
-patient safety algorithms from research to clinical practice at multiple
-sites.** BMJ Health & Care Informatics. *Under revision, May 2022.*
+Zimolzak AJ, Singh H, Murphy DR, *et al.* (2022) **Translating
+electronic health record-based patient safety algorithms from research
+to clinical practice at multiple sites.** BMJ Health Care Inform
+29(1):e100565.
 
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
-Detection Using Refined and Physiological- Feature Augmented Urine
+Detection Using Refined and Physiological-Feature Augmented Urine
 Output.** Scientific Reports 11(1):19561.
 
 Zimolzak AJ, Shahid U, Giardina T, Memon S, Mushtaq U, Zubkoff L, Murphy
@@ -323,6 +333,30 @@ We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
 # Presentations
+
+Zimolzak AJ, Kapadia P, Murphy DR, Upadhyay D, Mushtaq U, Mir U, Offner
+A, Korukonda S, Murugaesh Rekha R, Abel G, Lyratzopoulos G, Mounce L,
+Singh H. **Development/Implementation of Cancer Diagnosis Digital
+Quality Measures.** American Medical Informatics Association Annual
+Symposium, selected for oral presentation. Washington DC, 11/2022.
+
+Peng FB, Kumar D, Vaclavik L, Horstman MJ, Zimolzak AJ, Jackson LK,
+Braun UK, Hernaez R, Flores AG. **Quality improvement in palliative
+hepatology: increasing curative and palliative care for veterans with
+decompensated cirrhosis.** The Liver Meeting (AASLD, poster). Washington
+DC, 11/2022.
+
+Zimolzak AJ, Kapadia P, Murphy DR, Upadhyay D, Mushtaq U, Mir U, Offner
+A, Korukonda S, Murugaesh Rekha R, Abel G, Lyratzopoulos G, Mounce L,
+Singh H. **Implementation, validation, and mortality association of 2
+cancer diagnosis digital quality measures.** Society to Improve
+Diagnosis in Medicine conference (Best of the best oral presentation).
+Minneapolis, 10/2022.
+
+Zimolzak AJ, Choi D, Dawson D, Fletcher T, Scott T, Giardina T. **The
+association of race and ethnicity with negative descriptors in clinical
+texts.** Society to Improve Diagnosis in Medicine conference (oral
+presentation). Minneapolis, 10/2022.
 
 Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
 Coast Consortia Artificial Intelligence in Healthcare Symposium.
