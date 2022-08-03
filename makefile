@@ -1,10 +1,10 @@
-FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex
+FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex zimolzak-cv-public.pdf
 
 .PHONY: dropbox clean all
 
 all: $(FILES)
 
-zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py
+zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py secrets.py
 	python preprocess.py > $@  # Will contain real addresses, phones.
 
 zimolzak-cv.docx: zimolzak-cv.tex
@@ -14,6 +14,13 @@ zimolzak-cv.pdf : zimolzak-cv.tex
 	xelatex $<
 	xelatex $<
 	cp $@ ~/Dropbox
+
+zimolzak-cv-public.pdf: zimolzak-cv-pre.tex preprocess.py secrets.py
+	python preprocess.py --censor > deleteme.tex
+	xelatex deleteme.tex
+	xelatex deleteme.tex
+	mv deleteme.pdf $@
+	rm -f deleteme*
 
 # The PDF target above will run ONLY if the LaTeX file is changed
 # after the PDF. If it depended on target 'dropbox' it would always
