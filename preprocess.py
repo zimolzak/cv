@@ -1,3 +1,8 @@
+# Just takes my public LaTeX CV and replaces placeholders with real
+# addresses, phones, etc. Filename is hard-coded in.
+
+# Usual usage: python preprocess.py > zimolzak-cv.tex
+
 from secrets import DATA
 
 print("""%% Automatically generated file

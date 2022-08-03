@@ -5,7 +5,7 @@ FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex
 all: $(FILES)
 
 zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py
-	python preprocess.py > $@
+	python preprocess.py > $@  # Will contain real addresses, phones.
 
 zimolzak-cv.docx: zimolzak-cv.tex
 	pandoc -o $@ $<
@@ -35,8 +35,8 @@ pandocme.tex: zimolzak-cv-pre.tex
 # Have to remove \linebreak commands BEFORE pandoc receives the .tex
 
 README.md: pandocme.tex postprocess.pl
-	pandoc -o $@ $<
-	perl -i postprocess.pl $@
+	pandoc -o $@ $<  # This 1st README will have sections I don't want.
+	perl -i postprocess.pl $@  # Cut out sections (edit in place).
 
 
 
