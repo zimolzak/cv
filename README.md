@@ -153,8 +153,8 @@ Opportunities for Barrett's Esophagus Screening.** Baylor College of
 Medicine, Department of Medicine Physician-Scientist/Investigator
 Faculty Development Award. 07/01/2022-06/30/2024. Amount: \$207,906.
 
-Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnoiss
-Improvement Savety Center (DISCovery).** VHA National Center for Patient
+Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
+Improvement Safety Center (DISCovery).** VHA National Center for Patient
 Safety. FY 2022-FY 2024 (3 years). Amount: \$1,185,000.
 
 Co-PI: **Safer Dx e-measures to reduce preventable delays in cancer
@@ -209,15 +209,15 @@ revision.
 # Credentials and Memberships
 
 **American Board of Internal Medicine** certified 8/10/2011, valid
-through 12/31/2021.\
+through 12/31/2022 (MOC deadline extended).\
 **Clinical Informatics** board-certified 1/1/2014, valid through
 1/31/2024.\
 **Texas** full medical license 8/2018-present. No. R8850, exp
 8/31/2022.\
-**Massachusetts** full medical license 6/2011-present. No. 249050, exp
-11/21/2021.\
+**Massachusetts** full medical license 6/2011-present. No. 249050
+(inactive), exp 11/21/2023.\
 **Missouri** full medical license 6/2010-present. No. 2010020878, exp
-1/31/2021\
+1/31/2023\
 **American College of Physicians** member 2010-present.\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
