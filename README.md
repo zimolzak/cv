@@ -228,6 +228,9 @@ Physicians, 9/2011-2015.\
 
 # Honors and Awards
 
+**Best of the best oral abstracts,** Society to Improve Diagnosis in
+Medicine, 10/2022. Title: "Implementation, validation, and mortality
+association of 2 cancer diagnosis digital quality measures."\
 **Most innovative use of data,** Baylor College of Medicine Datathon,
 April 2022. Project entitled "The association of biased language in
 medical text with diagnostic error."\
