@@ -172,6 +172,11 @@ for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 
 # Mentoring relationships
 
+**Disha Kumar** (informal). 7/2022-present. Chief resident in quality
+and safety at VA hospital. Mentored in data retrieval and phenotyping
+strategies to identify inpatients with advanced cirrhosis, and missed
+follow-up of colorectal cancer screening.
+
 **Max Yu** (informal). 12/2021-present. Computer science undergraduate
 coming on board to assist in analysis. Mentored in clinical topics, VA
 data environment, and regulatory compliance.
@@ -262,7 +267,8 @@ Datathon.** *Under revision, August 2022.*
 Meyer AND, Singh H, Zimolzak AJ, Wei L, Choi DT, Marinez A, Murphy DR.
 **Evaluation for cancer during the COVID-19 pandemic: an observational
 study using national veterans affairs electronic health record data.**
-*Accepted July 2022, in press.*
+American Journal of Preventive Medicine. In-press journal pre-proof
+August 8, 2022. 10.1016/j.amepre.2022.07.004
 
 Zimolzak AJ, Singh H, Murphy DR, *et al.* (2022) **Translating
 electronic health record-based patient safety algorithms from research
