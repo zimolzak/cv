@@ -218,7 +218,7 @@ through 12/31/2022 (MOC deadline extended).\
 **Clinical Informatics** board-certified 1/1/2014, valid through
 1/31/2024.\
 **Texas** full medical license 8/2018-present. No. R8850, exp
-8/31/2022.\
+8/31/2024.\
 **Massachusetts** full medical license 6/2011-present. No. 249050
 (inactive), exp 11/21/2023.\
 **Missouri** full medical license 6/2010-present. No. 2010020878, exp
