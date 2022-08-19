@@ -153,10 +153,6 @@ Opportunities for Barrett's Esophagus Screening.** Baylor College of
 Medicine, Department of Medicine Physician-Scientist/Investigator
 Faculty Development Award. 07/01/2022-06/30/2024. Amount: \$207,906.
 
-Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
-Improvement Safety Center (DISCovery).** VHA National Center for Patient
-Safety. FY 2022-FY 2024 (3 years). Amount: \$1,185,000.
-
 Co-PI: **Safer Dx e-measures to reduce preventable delays in cancer
 diagnosis.** Gordon and Betty Moore Foundation. 11/2019-5/2021. GBMF
 8838. Amount: \$520,162 for 18 months. Drafted the majority of the
