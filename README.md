@@ -158,9 +158,9 @@ diagnosis.** Gordon and Betty Moore Foundation. 11/2019-5/2021. GBMF
 8838. Amount: \$520,162 for 18 months. Drafted the majority of the
 proposal.
 
-Co-Investigator: **Application of a Machine Learning to Enhance
-e-Triggers to Detect and Learn from Diagnostic Safety Events.** AHRQ.
-09/30/19-09/29/2022. R01 HS27363-01. Amount: \$496,121.
+Co-Investigator: **Application of Machine Learning to Enhance e-Triggers
+to Detect and Learn from Diagnostic Safety Events.** AHRQ.
+09/30/19-09/29/2023. R01 HS27363-01. Amount: \$496,121.
 
 Co-Investigator: **The Safer Dx Learning Lab: A Demonstration Project
 for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
