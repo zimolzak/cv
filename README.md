@@ -153,6 +153,9 @@ Opportunities for Barrett's Esophagus Screening.** Baylor College of
 Medicine, Department of Medicine Physician-Scientist/Investigator
 Faculty Development Award. 07/01/2022-06/30/2024. Amount: \$207,906.
 
+Co-Investigator: **Measuring and Improving the Safety of Test Result
+Follow-Up.** VA HSR&D. 10/2018-9/2023. I01 HX002439 / IIR 17-127.
+
 Co-PI: **Safer Dx e-measures to reduce preventable delays in cancer
 diagnosis.** Gordon and Betty Moore Foundation. 11/2019-5/2021. GBMF
 8838. Amount: \$520,162 for 18 months. Drafted the majority of the
@@ -367,10 +370,6 @@ association of race and ethnicity with negative descriptors in clinical
 texts.** Society to Improve Diagnosis in Medicine conference (oral
 presentation). Minneapolis, 10/2022.
 
-Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
-Coast Consortia Artificial Intelligence in Healthcare Symposium.
-5/18/2022.
-
 Zimolzak AJ, Singh H, Murphy DR, Wei L, Memon SA, Upadhyay D, Korukonda
 S, Zubkoff L, Sittig DF. **Translating electronic health record-based
 patient safety research algorithms to multiple clinical sites.**
@@ -388,12 +387,6 @@ A, Singh H. **A Digital Quality Measure of Emergency Cancer Diagnosis
 Using EHR Data in Two Large Health Systems.** American Medical
 Informatics Association Clinical Informatics Conference, selected for
 oral presentation. Houston, 5/25/2022.
-
-Zimolzak AJ. **Translating Electronic Health Record-Based Patient Safety
-Algorithms from Research to Clinical Practice.** Invited seminar talk,
-Baylor College of Medicine, Computational and Integrative Biomedical
-Research Center. Quantitative & Computational Biosciences graduate
-seminar. 2/23/2022.
 
 Zimolzak AJ, Davila JA, Punugoti V, Sippel KH, Balasubramanyam A,
 Klotman P, Petersen LA, Rochat RH, Liao G, Laubscher RR, Leiber L, Amos
@@ -421,10 +414,6 @@ Korukonda S, Wei L, Lyratzopoulos G, Abel G, Offner A, Singh H.
 emergency cancer presentations in the United States.** Society to
 Improve Diagnosis in Medicine conference, selected for oral
 presentation. 10/2021.
-
-Zimolzak AJ. **Data processes and machine learning for health research,
-in the US Department of Veterans Affairs.** Invited seminar talk,
-University of Houston Department of Industrial Engineering. 4/16/2021.
 
 Kapadia P, Zimolzak A, Murphy D, Lyratzopoulos G, Abel G, Upadhyay D,
 Scott T, Singh H. **Development of eMeasures to Study Missed and Delayed
@@ -533,15 +522,6 @@ patients diagnosed with early versus late stage non-small cell lung
 cancer.** American Society of Human Genetics Annual Meeting. Orlando;
 10/19/2017.
 
-Johnson BR, Fillmore NR, Brophy M, Fiore LD, Elkin PL, Katcher B, Ho
-Y-L, Zimolzak AJ. **Phenotyping Non-Small-Cell Lung Cancer at the VA:
-Cohort and Susceptibility Analysis.** VA Research week. Boston;
-5/18/2017.
-
-Fillmore NR, Zimolzak AJ, Johnson BR, Brophy M, Munshi N. **Ascertaining
-Cases of Multiple Myeloma Using Multiple VA National Structured Data
-Sources.** VA Research week. Boston; 5/18/2017.
-
 Zimolzak AJ, Kudesia VM. **Secondary Use of an Eighty-Billion-Row
 Clinical Data Warehouse.** Society for Industrial and Applied
 Mathematics 2016 annual meeting. Boston; 7/14/2016.
@@ -565,6 +545,36 @@ Zimolzak AJ, Spettell CM, Fernandes J, Fusaro VA, Palmer NP, Saria S,
 Jonikas M, Kohane IS, Mandl KD. **Early Statin Adherence As a Predictor
 of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
+
+# Presentations (local seminars, course lectures)
+
+Zimolzak AJ. **Working with data sets for translational research.**
+Baylor College of Medicine course "Orientation to Clinical Translational
+Research," course no. GS-GS-6206. Second-year PhD students in the
+Graduate School of Biomedical Sciences. 8/16/2022.
+
+Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
+Coast Consortia Artificial Intelligence in Healthcare Symposium.
+5/18/2022.
+
+Zimolzak AJ. **Translating Electronic Health Record-Based Patient Safety
+Algorithms from Research to Clinical Practice.** Invited seminar talk,
+Baylor College of Medicine, Computational and Integrative Biomedical
+Research Center. Quantitative & Computational Biosciences graduate
+seminar. 2/23/2022.
+
+Zimolzak AJ. **Data processes and machine learning for health research,
+in the US Department of Veterans Affairs.** Invited seminar talk,
+University of Houston Department of Industrial Engineering. 4/16/2021.
+
+Johnson BR, Fillmore NR, Brophy M, Fiore LD, Elkin PL, Katcher B, Ho
+Y-L, Zimolzak AJ. **Phenotyping Non-Small-Cell Lung Cancer at the VA:
+Cohort and Susceptibility Analysis.** VA Research week. Boston;
+5/18/2017.
+
+Fillmore NR, Zimolzak AJ, Johnson BR, Brophy M, Munshi N. **Ascertaining
+Cases of Multiple Myeloma Using Multiple VA National Structured Data
+Sources.** VA Research week. Boston; 5/18/2017.
 
 # Professional Service
 
