@@ -148,6 +148,29 @@ projects average 100%.)
 
 # Grants
 
+Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
+Improvement Safety Center (DISCovery).** VHA National Center for Patient
+Safety. FY 2023-FY 2026 (3 years). Amount: \$1,185,000.
+
+Co-Investigator: **Diagnostic Safety Center for Advancing E-triggers and
+Rapid Feedback Implementation (DISCOVERI).** AHRQ R18.
+04/01/2023-03/31/2027. 1 R18 HS029347-01. Amount: \$3,999,998. Drafted
+a large portion of the proposal and managed multiple steps in
+integrating sections, completing sections, and finalizing with
+administrators.
+
+Co-Investigator: **Measuring Missed Opportunities in the Diagnosis of
+Gastrointestinal Cancers.** Gordon and Betty Moore Foundation. Amount:
+\$500,000 for 18 months.
+
+Co-Investigator: **The Patient-Partnered Diagnostic Center of
+Excellence.** AHRQ R18. 04/01/2023-03/31/2027. 1 R18 HS029356-01
+
+Advisor: **Identifying current clinical care processes to reduce delays
+in colorectal cancer diagnoses.** Society to Improve Diagnosis in
+Medicine, DxQI Seed Grant Program. Lead: Disha Kumar, VA Chief Resident
+in Quality and Safety.
+
 Co-Investigator: **An Electronic Trigger Tool to Detect Missed
 Opportunities for Barrett's Esophagus Screening.** Baylor College of
 Medicine, Department of Medicine Physician-Scientist/Investigator
