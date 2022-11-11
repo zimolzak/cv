@@ -199,7 +199,22 @@ and safety at VA hospital. Mentored in data retrieval and phenotyping
 strategies to identify inpatients with advanced cirrhosis, and missed
 follow-up of colorectal cancer screening.
 
-**Max Yu** (informal). 12/2021-present. Computer science undergraduate
+**Freddie Peng** (informal). 2021-2022. Chief resident in quality and
+safety. Mentored in data techniques to identify patients with cirrhosis.
+
+**Angela Rao** (informal). Chief resident in quality and safety.
+Mentored in data techniques to measure usage of an inpatient diabetes
+treatment order set.
+
+**Angela Wu** (informal). 2022. Computer science graduate student
+performing machine learning and natural language processing analyses.
+Mentored in clinical topics, VA data environment, and regulatory
+compliance.
+
+**Jenny Sloane** (informal). 2022. Postdoctoral student in cognitive
+psychology. Mentored in clinical topics and VA data environment.
+
+**Max Yu** (informal). 12/2021-2022. Computer science undergraduate
 coming on board to assist in analysis. Mentored in clinical topics, VA
 data environment, and regulatory compliance.
 
