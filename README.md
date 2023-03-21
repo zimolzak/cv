@@ -298,14 +298,19 @@ out of the incoming class of about 10,000.
 
 # Publications
 
-Zimolzak AJ, *et al.* **Lessons Learned from an Enterprise-Wide Clinical
-Datathon.** *Under revision, August 2022.*
+Honerlaw J, Ho YL, Fontin F, Gosian J, Maripuri M, Murray M, Sangar R,
+Galloway A, Zimolzak AJ, Whitbourne SB, Casas JP, Ramoni RB, Gagnon DR,
+Cai T, Liao KP, Gaziano JM, Muralidhar S, Cho K. **Framework of the
+Centralized Interactive Phenomics Resource (CIPHER) standard for
+electronic health data-based phenomics knowledgebase.** J Am Med Inform
+Assoc. 2023 Mar 7:ocad030. Epub ahead of print.
 
-Meyer AND, Singh H, Zimolzak AJ, Wei L, Choi DT, Marinez A, Murphy DR.
-**Evaluation for cancer during the COVID-19 pandemic: an observational
-study using national veterans affairs electronic health record data.**
-American Journal of Preventive Medicine. In-press journal pre-proof
-August 8, 2022. 10.1016/j.amepre.2022.07.004
+Zimolzak AJ, Davila JA, Punugoti V, *et al.* **Lessons learned from an
+enterprise-wide clinical datathon.** J Clin Transl Sci. 2022;6(1):e125.
+
+Meyer AND, Singh H, Zimolzak AJ, *et al.* **Cancer Evaluations During
+the COVID-19 Pandemic: An Observational Study Using National Veterans
+Affairs Data.** Am J Prev Med. 2022;63(6):1026-1030.
 
 Zimolzak AJ, Singh H, Murphy DR, *et al.* (2022) **Translating
 electronic health record-based patient safety algorithms from research
