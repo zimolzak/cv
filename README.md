@@ -186,7 +186,7 @@ proposal.
 
 Co-Investigator: **Application of Machine Learning to Enhance e-Triggers
 to Detect and Learn from Diagnostic Safety Events.** AHRQ.
-09/30/19-09/29/2023. R01 HS27363-01. Amount: \$496,121.
+09/30/19-09/29/2023. R01 HS027363-01. Amount: \$1,494,980.
 
 Co-Investigator: **The Safer Dx Learning Lab: A Demonstration Project
 for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
