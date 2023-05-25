@@ -154,7 +154,7 @@ Safety. FY 2023-FY 2026 (3 years). Amount: \$1,185,000.
 
 Co-Investigator: **Diagnostic Safety Center for Advancing E-triggers and
 Rapid Feedback Implementation (DISCOVERI).** AHRQ R18.
-04/01/2023-03/31/2027. 1 R18 HS029347-01. Amount: \$3,999,998. Drafted
+10/01/2022-09/30/2026. 1 R18 HS029347-01. Amount: \$3,999,998. Drafted
 a large portion of the proposal and managed multiple steps in
 integrating sections, completing sections, and finalizing with
 administrators.
