@@ -148,9 +148,13 @@ projects average 100%.)
 
 # Grants
 
+Co-Investigator: **A Health Informatics Approach to Reduce Missed
+Opportunities for Barrett's Esophagus Screening.** American College of
+Gastroenterology. 07/01/2023-06/30/2026. Amount: \$450,000.
+
 Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
 Improvement Safety Center (DISCovery).** VHA National Center for Patient
-Safety. FY 2023-FY 2026 (3 years). Amount: \$1,185,000.
+Safety. 10/01/2022-09/30/2025. Amount: \$1,185,000.
 
 Co-Investigator: **Diagnostic Safety Center for Advancing E-triggers and
 Rapid Feedback Implementation (DISCOVERI).** AHRQ R18.
@@ -160,11 +164,12 @@ integrating sections, completing sections, and finalizing with
 administrators.
 
 Co-Investigator: **Measuring Missed Opportunities in the Diagnosis of
-Gastrointestinal Cancers.** Gordon and Betty Moore Foundation. Amount:
-\$500,000 for 18 months.
+Gastrointestinal Cancers.** Gordon and Betty Moore Foundation.
+7/1/2022-12/31/2023. GBMF 11505. Amount: \$500,000 for 18 months.
 
 Co-Investigator: **The Patient-Partnered Diagnostic Center of
-Excellence.** AHRQ R18. 04/01/2023-03/31/2027. 1 R18 HS029356-01
+Excellence.** AHRQ R18. 10/01/2022-09/30/2026. 1 R18 HS029356-01.
+\$4,000,000.
 
 Advisor: **Identifying current clinical care processes to reduce delays
 in colorectal cancer diagnoses.** Society to Improve Diagnosis in
@@ -205,6 +210,10 @@ safety. Mentored in data techniques to identify patients with cirrhosis.
 **Angela Rao** (informal). Chief resident in quality and safety.
 Mentored in data techniques to measure usage of an inpatient diabetes
 treatment order set.
+
+**Adel Hassan** (informal). 2023. Medical student performing machine
+learning analyses. Mentored in clinical topics, VA data environment,
+scientific publication, and regulatory compliance.
 
 **Angela Wu** (informal). 2022. Computer science graduate student
 performing machine learning and natural language processing analyses.
@@ -271,6 +280,12 @@ Physicians, 9/2011-2015.\
 # Honors and Awards
 
 **Best of the best oral abstracts,** Society to Improve Diagnosis in
+Medicine, 10/2023.\
+**GME Poster award,** MEDVAMC Education Day, 3/2023. Title: "Increasing
+Usage of an Inpatient Insulin Order Set."\
+**Poster award,** BCM House Staff Research Symposium, 2023. Title:
+"Increasing Usage of an Inpatient Insulin Order Set."\
+**Best of the best oral abstracts,** Society to Improve Diagnosis in
 Medicine, 10/2022. Title: "Implementation, validation, and mortality
 association of 2 cancer diagnosis digital quality measures."\
 **Most innovative use of data,** Baylor College of Medicine Datathon,
@@ -297,6 +312,11 @@ Competitive four-year full tuition scholarship awarded to 35 students
 out of the incoming class of about 10,000.
 
 # Publications
+
+Murphy DR, Zimolzak AJ, Upadhyay DK, Wei L, Jolly P, Offner A, Sittig
+DF, Korukonda S, Rekha RM, Singh H. **Developing electronic clinical
+quality measures to assess the cancer diagnostic process.** J Am Med
+Inform Assoc. 2023 Aug 18;30(9):1526-1531.
 
 Honerlaw J, Ho YL, Fontin F, Gosian J, Maripuri M, Murray M, Sangar R,
 Galloway A, Zimolzak AJ, Whitbourne SB, Casas JP, Ramoni RB, Gagnon DR,
@@ -388,6 +408,33 @@ We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
 # Presentations (national/international)
+
+Zimolzak AJ, Singh H, Davila J. **Application of a Digital Quality
+Measure for Cancer Diagnosis in Epic Cosmos.** Society to Improve
+Diagnosis in Medicine conference (Best of the best oral presentation).
+Cleveland, 10/2023.
+
+Zimolzak AJ, Yu M, Wu Y, Wei L, Mir U, Gupta A, Vaghani V, Hassan A,
+Mower J, Subramanian D, Singh H. **Machine Learning for Enhanced
+Electronic Trigger Detection of Diagnostic Errors.** Society to Improve
+Diagnosis in Medicine conference (oral presentation). Cleveland,
+10/2023.
+
+Matin R, Meyer AND, Zimolzak AJ, Mir U, Giardina T, Singh H. **A
+Framework to Implement E-Triggers for Missed Opportunities in Diagnosis
+in Learning Health Systems.** Society to Improve Diagnosis in Medicine
+conference. Cleveland, 10/2023.
+
+Kapadia P, Ali B, Zimolzak A, Singh H, Khalaf N. **Development of an
+Automated Algorithm to Detect Emergency Presentations Among Pancreatic
+Cancer Patients.** American College of Gastroenterology annual meeting.
+Vancouver, 10/2023.
+
+Carlson K, Kumar D, Comer L, Peng F, Rao A, Zimolzak A, Podany W, Hirani
+K, Cole R, Vaclavik L, Horstman M, Larson S. **Increasing Accuracy of
+Colonoscopy Indication through Electronic Medical Record Changes: A
+Quality Improvement Project.** American College of Gastroenterology
+annual meeting. Vancouver, 10/2023.
 
 Sippel K, Zimolzak AJ, Davila JA, Punugoti V, Klotman PE, Petersen LA,
 Liao G, Leiber L, Amos CI. **Datathon Revisited: Implementation of
@@ -608,6 +655,11 @@ of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
+
+Zimolzak AJ. **Working with data sets for translational research.**
+Baylor College of Medicine course "Orientation to Clinical Translational
+Research," course no. GS-GS-6206. Second-year PhD students in the
+Graduate School of Biomedical Sciences. 2023.
 
 Zimolzak AJ. **Working with data sets for translational research.**
 Baylor College of Medicine course "Orientation to Clinical Translational
