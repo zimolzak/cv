@@ -1,9 +1,16 @@
 \ProvidesPackage{cv}
 
+% Font
+
 \usepackage{fontspec} % Fontspec requires rendering with xelatex.
 %\usepackage{xltxtra} % no help w en dash
 %\usepackage{xunicode} % no help w en dash
+
 \setmainfont{Times New Roman}
+
+
+
+% Page and paragraph setup
 
 \usepackage[top=1in, bottom=2in, left=1in, right=1in]{geometry}
 % Margins VERY ad hoc. 1.25 was so we can outdent the SECTION heading.
@@ -11,6 +18,7 @@
 % something weird to page geometry.
 %\pagestyle{empty}
 %\linespread{0.95}
+
 \special{papersize=8.5in,11in}
 \setlength{\pdfpageheight}{\paperheight}
 \setlength{\pdfpagewidth}{\paperwidth}
@@ -18,19 +26,33 @@
 \setlength{\parskip}{11pt plus 1pt minus 1pt}
 \setlength{\parindent}{0pt}
 
+
+
+% Commands
+
 \newcommand{\ndash}{–}
 \newcommand{\mdash}{—}
 
-\usepackage[compact]{titlesec}  
+
+
+% Section and subsection styles
+
+\usepackage[compact]{titlesec}
+
 \titlespacing{\section}{-0.25in}{0pt}{-10pt}
-\titlespacing{\subsection}{0pt}{0pt}{-12pt}
-% don't know why -10pt after SECTION looks good, whereas it's -12 for
-% subsection.
+\titlespacing{\subsection}{-0.25in}{0pt}{-10pt}
+% don't know why -10pt after \section [used to] look good, whereas
+% it is/was -12 for subsection.
 \titleformat*{\section}{\large\itshape\bfseries}
-\titleformat*{\subsection}{\normalsize\bfseries}
+\titleformat*{\subsection}{\normalsize\itshape\bfseries}
+
+
+
+% Headers
 
 \usepackage{fancyhdr}
 \usepackage{lastpage}
+
 \pagestyle{fancy}
 \lhead{}
 \chead{\Large\bfseries\itshape Andrew J. Zimolzak\\ \large{}Curriculum Vitae, \today}
