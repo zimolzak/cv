@@ -31,21 +31,23 @@ MMSc in Medical Informatics.
 **Clinical informatician** at the VA Center for Innovations in Quality,
 Effectiveness and Safety (IQuESt), and at the Baylor Institute for
 Clinical and Translational Research, 11/12/2018-present. **Assistant
-professor,** Baylor College of Medicine. I am a clinical subject matter
-expert who reviews large collections of fragmented data elements to
-unify them into clinically meaningful concepts, thus making diverse
-clinical research studies possible. These efforts are often termed
-**secondary use** of electronic health record data, or **clinical
-research informatics.** I interpret clinical language and systems for
-data pull engineers/analysts, or vice versa (interpreting technical
-language for clinical investigators). I access a data warehouse covering
-twenty million unique individuals, and billions of observations, from
-1999 to the present, aggregated from 130 VA sites (but incompletely
+professor,** Baylor College of Medicine. I am a practicing physician
+with with significant personal experience writing reusable **database,
+statistical, and machine learning** computer code for research. I unify
+large collections of fragmented data elements to into clinically
+meaningful concepts, thus making diverse clinical research studies
+possible. This work is known by several names: *secondary use* of
+electronic health record data, *clinical research informatics,* or
+*phenotyping.* I interpret clinical language and systems for data pull
+engineers/analysts, or vice versa (interpreting technical language for
+clinical investigators). I access a data warehouse covering $> 20$
+million unique individuals, and billions of observations, from 1999 to
+the present, aggregated from 130 VA sites (but incompletely
 standardized/harmonized). Major projects include disseminating
 algorithms to detect missed laboratory test follow-ups, and clinical
-trials matching. I work as a **teaching attending** on the VA inpatient
-medicine service, supervising house staff and students. Supervisors:
-Hardeep Singh, Laura Petersen, Chris Amos, Andrew Caruso.
+trials matching. I also work as a **teaching attending** on the VA
+hospitalist service, supervising house staff and students. Supervisors:
+Hardeep Singh, Chris Amos, Andrew Caruso, Lindsey Gay.
 
 **Clinical informatician,** Massachusetts Veterans Epidemiology Research
 and Information Center (MAVERIC), 10/20/2014-11/9/2018. **Assistant
@@ -53,85 +55,76 @@ professor,** Boston University School of Medicine, 8/2016-11/2018, and
 reciprocal appointment as Lecturer, Harvard Medical School. My work
 enabled a **genomic precision medicine** platform and learning health
 system for cancer, as well as a 13,000-subject point of care, randomized
-**comparative effectiveness trial** of two antihypertensives. I
-developed (2016) a system to ensure **reusable phenotyping algorithms**
-for genomic association and other studies, and I directly exported and
-encrypted data for transfer to the mirror system adopted at Oak Ridge
-National Laboratory (2018). I collaborated on writing and submission of
-a U01 grant. I served as **co-program-director** of the Big
-Data-Scientist Training Enhancement Program (BD-STEP) site in Boston,
-and served as principal investigator on a study of genomic predictors of
-stage of lung cancer at presentation. I mentored an internal medicine
-resident, who helped me make a highly accurate **natural language
-processing classifier** of serum protein electrophoresis reports.
-Inpatient medicine **teaching attending** at the VA hospital.
-Supervisors (research): Nhan Do, Valmeek Kudesia, Mary Brophy, Louis
-Fiore. Clinical: Steven Simon, Jay Orlander, Anthony Breu.
+**comparative effectiveness trial** of two antihypertensives. Developed
+(2016) a system to ensure **reusable phenotyping algorithms** for
+genomic association and other studies, still in use as of 2024.
+Personally exported and encrypted data from this system to the mirror
+system at Oak Ridge National Laboratory (2018). Served as
+**co-program-director** of the Big Data-Scientist Training Enhancement
+Program (BD-STEP) site in Boston, and as principal investigator on a
+study of genomic predictors of stage of lung cancer at presentation.
+Mentored an internal medicine resident, who helped me make a highly
+accurate **natural language processing classifier** of serum protein
+electrophoresis reports. Inpatient medicine **teaching attending** at
+the VA hospital. Supervisors (research): Nhan Do, Valmeek Kudesia, Mary
+Brophy, Louis Fiore. Clinical: Steven Simon, Jay Orlander, Anthony Breu.
 
 **Research collaborator,** Massachusetts Institute of Technology,
 Laboratory for Computational Physiology, 12/6/2013-9/2016. Lead
 clinician on a project to develop a data-based definition of acute
 kidney injury, using records of 11,000 patients from MIMIC II, an open
-collection of intensive care unit data collected over 8 years.
-Collaborated on writing and submission of an NIH R25 grant. Professor:
-Leo Celi, Harvard-MIT Division of Health Science and Technology.
+collection of intensive care unit data covering 8 years. Collaborated on
+writing and submitting a R25 grant. Professor: Leo Celi.
 
 **Research fellow,** Children's Hospital Informatics Program,
 Intelligent Health Laboratory, 7/1/2011-1/31/2014. Analyzed pharmacy
 claims to develop predictive models of medication adherence. Used **SAS
-software and multivariable logistic regression** to analyze 61 million
-enrollment records, 200 million medical claims, and 90 million
-prescription claims. I designed and wrote all code to perform the
-analysis, resulting in 2,000 lines of code in the final project. Other
-data and methods included laboratory and health risk assessment data,
-multivariable adaptive regression splines, and Fourier spectral
-analysis. Coursework in **epidemiology, biostatistics, data mining,
-machine learning, and grant writing,** partially through Harvard School
-of Public Health Program in Clinical Effectiveness. Professor: Kenneth
-Mandl, Harvard Medical School. Program director: Alexa McCray, Harvard
-Medical School.
+and logistic regression** to analyze $\sim$ 300M claims from 61M
+individuals. Designed and wrote all code (2,000 lines in the final
+analysis). Pilot projects using multivariable adaptive regression
+splines, and Fourier spectral analysis. Coursework in **epidemiology,
+biostatistics, data mining, machine learning, and grant writing,**
+partially through Harvard School of Public Health Program in Clinical
+Effectiveness. Professor: Kenneth Mandl. Program director: Alexa McCray.
 
 **Urgent care physician,** Harvard Vanguard Medical Associates,
-10/15/2011-6/30/2018. Diagnose and treat patients with acute medical
-problems, e.g. respiratory or gastrointestinal infections, dehydration,
-sprains, abscesses, lacerations, pelvic conditions, initial management
-of fractures. Supervise nurse practitioners and physician assistants.
-Supervisor: David Meenan.
+10/15/2011-6/30/2018. Diagnose and treat outpatients with acute medical
+problems, e.g. infections, dehydration, sprains, abscesses, lacerations,
+pelvic conditions, initial management of fractures. Supervise nurse
+practitioners and physician assistants. Supervisor: David Meenan.
 
 **Internal medicine chief resident,** Saint Louis University Hospital,
 7/1/2010-6/30/2011. Managed and scheduled 130 residents. Academic
-appointment as instructor in internal medicine and hospital appointment
-as physician. Attended on inpatient & outpatient general medicine in
-university and VA hospitals. Accepted transfers, supervised and improved
-patient handoffs. Precepted medical students, ran approximately 100
-resident report conferences, 6 morbidity and mortality conferences, and
-two clinicopathologic conferences. Interviewed residency program
-applicants and sat on selection committee. Program director: Miguel
-Paniagua, Saint Louis University.
+appointment as instructor in internal medicine. Attended on inpatient &
+outpatient general medicine in university and VA hospitals. Accepted
+transfers, supervised and improved patient handoffs. Precepted medical
+students, ran morbidity/mortality and clinicopathologic conferences, and
+$\sim
+100$ resident report conferences. Interviewed and helped select
+residency program applicants. Program director: Miguel Paniagua.
 
-**Research elective,** 2/2007-4/2007. Analyzed associations in a
-database of 12,000 outpatients associated with 40,000 diagnoses. Wrote
-Perl code to find associations between any given pair of diseases in a
-patient, and to output the strongest associations in an easily
-visualized format. Professor: Walton Sumner, Washington University in
-St. Louis.
+**Research elective,** 2/2007-4/2007. Association rule mining on a
+database of 12,000 outpatients and 40,000 diagnoses. Wrote Perl code to
+find associations between any given pair of diseases in a patient, and
+to output the strongest associations in an easily visualized format.
+Professor: Walton Sumner, Washington University in St. Louis.
 
 **Professorial assistant,** 9/1998-5/2002. Used molecular biology and
 cell culture techniques to analyze factors leading to malignant
 transformation of human cells. Professor: J. Justin McCormick, Michigan
 State University.
 
-**Technology skills.** Experience with **SAS** and **R** statistical
-programming, **Git** source code management, and **SQL** all since 2011;
-and with the **Python** programming language since 2013. GitHub
-username: zimolzak (have written code involving topics such as a Twitter
-text generator, cryptography, satisfiability solving, celestial
-navigation, and Amazon Web Services tasks). Experience with the Perl
-programming language, Linux/UNIX, LaTeX, and GNU Emacs since 2001.
-Intermediate experience with audio, video, and photo equipment and
-editing. *Electronic medical records:* experience with Epic Hyperspace
-since 2009, CPRS/VistA since 2007, and 1 year experience with Cerner
-PowerChart.
+**Technology skills.** Experience with **R** statistical programming,
+**Git** source code management, and **SQL** all since 2011; and with the
+**Python** programming language since 2013. Experience with **SAS**
+statistical programming 2011-2014. GitHub username: zimolzak (have
+written code involving topics such as a Twitter text generator,
+cryptography, satisfiability solving, celestial navigation, and Amazon
+Web Services tasks). Experience with the Perl programming language,
+Linux/UNIX, LaTeX, and GNU Emacs since 2001. Intermediate experience
+with audio, video, and photo equipment and editing. *Electronic medical
+records:* experience with Epic Hyperspace since 2009, CPRS/VistA since
+2007, and 1 year experience with Cerner PowerChart.
 
 **Additional courses.** *Machine Learning* (Coursera/Stanford, Andrew
 Ng, Octave language, 2011). *Intro to Theoretical Computer Science*
@@ -147,6 +140,11 @@ wrote around 2000 lines of code. In-class exercises average 95%,
 projects average 100%.)
 
 # Grants
+
+Co-investigator: **Enhancing VA Implementation and Dissemination of
+Electronic Health Record Modernization through a National Collaborative
+Effort (EVIDENCE).** VA HSR&D Service-directed research.
+10/2023-9/2025.
 
 Co-Investigator: **A Health Informatics Approach to Reduce Missed
 Opportunities for Barrett's Esophagus Screening.** American College of
@@ -197,53 +195,38 @@ Co-Investigator: **The Safer Dx Learning Lab: A Demonstration Project
 for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 6/30/2017-5/31/2020. GBMF 5498. Amount: \$3,525,397 for 36 months.
 
-# Mentoring relationships
+# Teaching
 
-**Disha Kumar** (informal). 7/2022-present. Chief resident in quality
-and safety at VA hospital. Mentored in data retrieval and phenotyping
-strategies to identify inpatients with advanced cirrhosis, and missed
-follow-up of colorectal cancer screening.
+**Inquiry Project**. 2023-present. Funded as faculty for a new
+curriculum component and course block, designed to promote
+hypothesis-driven medical student scholarship on a mentored project,
+with activities across all 4 years of medical school. Serving as a
+liaison between information technology and students, to construct an
+educational data warehouse extracted from local electronic health
+records, for use in student projects.
 
-**Freddie Peng** (informal). 2021-2022. Chief resident in quality and
-safety. Mentored in data techniques to identify patients with cirrhosis.
+## Mentoring (long-term contact)
 
-**Angela Rao** (informal). Chief resident in quality and safety.
-Mentored in data techniques to measure usage of an inpatient diabetes
-treatment order set.
+**Jennifer Sloane** (informal). 2022-present. Postdoctoral fellow in
+cognitive psychology. Mentored in clinical topics and VA data
+environment.
 
-**Adel Hassan** (informal). 2023. Medical student performing machine
-learning analyses. Mentored in clinical topics, VA data environment,
-scientific publication, and regulatory compliance.
+**Theresa Nguyen** (formal). 9/2021-present. Fellow awarded Department
+of Medicine grant that includes me on mentorship team. Mentoring in VA
+data availability and predictive model application.
 
-**Angela Wu** (informal). 2022. Computer science graduate student
-performing machine learning and natural language processing analyses.
-Mentored in clinical topics, VA data environment, and regulatory
-compliance.
-
-**Jenny Sloane** (informal). 2022. Postdoctoral student in cognitive
-psychology. Mentored in clinical topics and VA data environment.
-
-**Max Yu** (informal). 12/2021-2022. Computer science undergraduate
-coming on board to assist in analysis. Mentored in clinical topics, VA
-data environment, and regulatory compliance.
-
-**Theresa Nguyen** (formal mentoring). 9/2021-present. Fellow awarded
-Department of Medicine grant that includes me on mentorship team.
-Mentoring in VA data availability and predictive model application.
-
-**Paarth Kapadia** (informal). 1/2020-present. MD student at Baylor
+**Paarth Kapadia** (informal). 1/2020-2023. MD student at Baylor
 College of Medicine doing year-long research experience. Mentored in
 manuscript preparation, data analysis, regulatory compliance.
 
-**Nathanael Fillmore** (formal mentoring). 2016-2017. Nonclinical PhD
-accepted to a VA advanced fellowship. As co-program director for
-BD-STEP, I was responsible for training all fellows regarding clinical
-topics, the data environment, and regulatory compliance. Hired full-time
-by VA in 2017, informal mentoring thereafter. Dr. Fillmore was later
-promoted to director of machine learning at the Boston VA clinical
-trials center.
+**Nathanael Fillmore** (formal). 2016-2017. Nonclinical PhD accepted to
+a VA advanced fellowship. As co-program director for BD-STEP, I was
+responsible for training all fellows regarding clinical topics, the data
+environment, and regulatory compliance. Hired full-time by VA in 2017,
+informal mentoring thereafter. Dr. Fillmore was later promoted to
+director of machine learning at the Boston VA clinical trials center.
 
-**Brett Johnson** (formal mentoring). 2016-2017. BD-STEP fellow.
+**Brett Johnson** (formal). 2016-2017. BD-STEP fellow.
 Responsibilities: see *Fillmore* above. Hired full-time by VA in 2017,
 informal mentoring thereafter.
 
@@ -257,34 +240,61 @@ student in computer science and molecular biology at MIT. Mentored in
 research record keeping, clinical topics, journal submission, and
 revision.
 
+## Mentoring (short-term contact)
+
+**Adel Hassan** (informal). 2023-present. Medical student performing
+machine learning analyses. Mentored in clinical topics, VA data
+environment, scientific publication, and regulatory compliance.
+
+**Disha Kumar** (informal). 7/2022-2023. Chief resident in quality and
+safety at VA hospital. Mentored in data retrieval and phenotyping
+strategies to identify inpatients with advanced cirrhosis, and missed
+follow-up of colorectal cancer screening.
+
+**Angela Wu** (informal). 2022. Computer science graduate student
+performing machine learning and natural language processing analyses.
+Mentored in clinical topics, VA data environment, and regulatory
+compliance.
+
+**Freddie Peng** (informal). 2021-2022. Chief resident in quality and
+safety. Mentored in data techniques to identify patients with cirrhosis.
+
+**Angela Rao** (informal). Chief resident in quality and safety.
+Mentored in data techniques to measure usage of an inpatient diabetes
+treatment order set.
+
+**Max Yu** (informal). 12/2021-2022. Computer science undergraduate
+coming on board to assist in analysis. Mentored in clinical topics, VA
+data environment, and regulatory compliance.
+
 # Credentials and Memberships
 
-**American Board of Internal Medicine** certified 8/10/2011, valid
-through 12/31/2022 (MOC deadline extended).\
-**Clinical Informatics** board-certified 1/1/2014, valid through
-1/31/2024.\
+**American Board of Internal Medicine** certified 8/10/2011,
+participating in MOC.\
+**Clinical Informatics** board-certified 1/1/2014 (ABPM), completed 2023
+CCP, valid through 12/31/2029.\
 **Texas** full medical license 8/2018-present. No. R8850, exp
 8/31/2024.\
 **Massachusetts** full medical license 6/2011-present. No. 249050
-(inactive), exp 11/21/2023.\
+(inactive), exp 11/21/2025.\
 **Missouri** full medical license 6/2010-present. No. 2010020878, exp
-1/31/2023\
-**American College of Physicians** member 2010-present.\
+1/31/2024\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
 Physicians, 9/2011-2015.\
-**USMLE** passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007, Step
-3 5/2010.\
-**ACLS** and BLS certified.
+**USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
+Step 3 5/2010.\
+**ACLS and BLS** certified (exp 1/31/2026).
 
 # Honors and Awards
 
-**Best of the best oral abstracts,** Society to Improve Diagnosis in
-Medicine, 10/2023.\
-**GME Poster award,** MEDVAMC Education Day, 3/2023. Title: "Increasing
+**Best oral presentation of the conference,** Society to Improve
+Diagnosis in Medicine, 10/2023. Title: "Machine Learning for Enhanced
+Electronic Trigger Detection of Diagnostic Errors."\
+**GME Poster award,** MEDVAMC Education Day, 3/2023. "Increasing Usage
+of an Inpatient Insulin Order Set."\
+**Poster award,** BCM House Staff Research Symposium, 2023. "Increasing
 Usage of an Inpatient Insulin Order Set."\
-**Poster award,** BCM House Staff Research Symposium, 2023. Title:
-"Increasing Usage of an Inpatient Insulin Order Set."\
 **Best of the best oral abstracts,** Society to Improve Diagnosis in
 Medicine, 10/2022. Title: "Implementation, validation, and mortality
 association of 2 cancer diagnosis digital quality measures."\
@@ -337,15 +347,17 @@ electronic health record-based patient safety algorithms from research
 to clinical practice at multiple sites.** BMJ Health Care Inform
 29(1):e100565.
 
-Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
-Detection Using Refined and Physiological-Feature Augmented Urine
-Output.** Scientific Reports 11(1):19561.
-
 Zimolzak AJ, Shahid U, Giardina T, Memon S, Mushtaq U, Zubkoff L, Murphy
 DR, Bradford A, Singh H. (2022) **Why Test Results Are Still Getting
 "Lost" to Follow-up: A Qualitative Study of Implementation Gaps.**
 Journal of General Internal Medicine 37(1):137-144. Published online
 2021-04-27.
+
+## Before 2022
+
+Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
+Detection Using Refined and Physiological-Feature Augmented Urine
+Output.** Scientific Reports 11(1):19561.
 
 Vassy JL, Gaziano JM, Green RC, Ferguson RE, Advani S, Miller SJ, Chun
 S, Hage AK, Seo SJ, Majahalme N, MacMullen L, Zimolzak AJ, Brunette CA.
@@ -409,14 +421,14 @@ thesis, 5/17/2013.
 
 # Presentations (national/international)
 
-Zimolzak AJ, Singh H, Davila J. **Application of a Digital Quality
-Measure for Cancer Diagnosis in Epic Cosmos.** Society to Improve
-Diagnosis in Medicine conference (Best of the best oral presentation).
-Cleveland, 10/2023.
-
 Zimolzak AJ, Yu M, Wu Y, Wei L, Mir U, Gupta A, Vaghani V, Hassan A,
 Mower J, Subramanian D, Singh H. **Machine Learning for Enhanced
 Electronic Trigger Detection of Diagnostic Errors.** Society to Improve
+Diagnosis in Medicine conference (awarded Best oral presentation of the
+conference as a whole). Cleveland, 10/2023.
+
+Zimolzak AJ, Singh H, Davila J. **Application of a Digital Quality
+Measure for Cancer Diagnosis in Epic Cosmos.** Society to Improve
 Diagnosis in Medicine conference (oral presentation). Cleveland,
 10/2023.
 
@@ -436,23 +448,28 @@ Colonoscopy Indication through Electronic Medical Record Changes: A
 Quality Improvement Project.** American College of Gastroenterology
 annual meeting. Vancouver, 10/2023.
 
-Sippel K, Zimolzak AJ, Davila JA, Punugoti V, Klotman PE, Petersen LA,
-Liao G, Leiber L, Amos CI. **Datathon Revisited: Implementation of
-Lessons Learned.** Translational Science 2023. Wahsington DC, 4/2023.
-
-Horstman MJ, Lim J, Zimolzak A, Caruso A, Gay L. **How we got our (S)WAG
-back: Academic Hospitalist (Strategic) Writing Accountability Group.**
-Society of Hospital Medicine National Meeting. Austin, 3/2023.
-
 Kumar D, Carlson K, Peng FB, Rao A, Podany W, Hirani K, Zimolzak A,
 Vaclavik L, Horstman M, Larson S. **Clinical Care Processes Causing
 Delay for Positive Colorectal Cancer Screening Diagnostic Colonoscopy
 Among Veterans.** Digestive Diseases Week. Chicago, 5/2023.
 
+Sippel K, Zimolzak AJ, Davila JA, Punugoti V, Klotman PE, Petersen LA,
+Liao G, Leiber L, Amos CI. **Datathon Revisited: Implementation of
+Lessons Learned.** Translational Science 2023. Washington DC, 4/2023.
+
+Horstman MJ, Lim J, Zimolzak A, Caruso A, Gay L. **How we got our (S)WAG
+back: Academic Hospitalist (Strategic) Writing Accountability Group.**
+Society of Hospital Medicine National Meeting. Austin, 3/2023.
+
 Rao AN, Horstman M, Vaclavik L, Zimolzak A, Nguyen S, Sheth S, Vasudevan
 M. **Increasing Usage of an Inpatient Insulin Order Set.** Michael
 E. DeBakey VA Medical Center Education Day, won award in Graduate
 Medical Education category. Houston, 3/23/2023.
+
+Zimolzak AJ, Zubkoff L, Shahid U, Giardina T, Memon S, Meyer AND, Murphy
+DR, Singh H. **Reducing Missed Test Results through a Virtual
+Breakthrough Series Collaborative.** VA HSR&D / QUERI National Meeting.
+Baltimore; 2/9/2023.
 
 Zimolzak AJ, Kapadia P, Murphy DR, Upadhyay D, Mushtaq U, Mir U, Offner
 A, Korukonda S, Murugaesh Rekha R, Abel G, Lyratzopoulos G, Mounce L,
@@ -642,7 +659,7 @@ Pharmacoepidemiology & Therapeutic Risk Management (ICPE). Boston;
 
 Leatherman SM, Riley KE, Woods PA, Zimolzak AJ, Majahalme N, Kudesia V,
 Ferguson RE, Fiore LD. **Ascertainment of Clinical Outcomes from
-Electronic Medical Record Data for Point-of-Care Clinical Trials.**
+Electronic Medical Record Data for Point-of-Care Clinical Trials.** VA
 HSR&D / QUERI National Conference. Philadelphia; 7/8-10/2015.
 
 Zimolzak AJ. **Early Detection of Statin Adherence/Nonadherence.**
@@ -655,6 +672,18 @@ of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
+
+Zimolzak AJ. **Electronic Health Record Data for Health Policy
+Research.** Invited lecture to medical students in the health policy
+track. 12/5/2023. https://doi.org/10.5281/zenodo.10267057
+
+Zimolzak AJ. **Clinical Research Informatics with Applications to
+Diagnostic Safety.** Invited presentation to Patient-Partnered
+Diagnostic Center of Excellence learning community. 8/21/2023.
+
+Zimolzak AJ. **Is it called Artificial Intelligence, or Machine
+Learning, or something else?** Invited presentation to IQuESt
+methodology core. 5/26/2023.
 
 Zimolzak AJ. **Working with data sets for translational research.**
 Baylor College of Medicine course "Orientation to Clinical Translational
@@ -691,6 +720,8 @@ Sources.** VA Research week. Boston; 5/18/2017.
 
 # Professional Service
 
+**Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
+career development grants (3).\
 **Electronic laboratory notebook working group,** Baylor College of
 Medicine. 10/2021-7/2022.\
 **Research Data Security Committee,** IQuESt. 2/2022-present.\
