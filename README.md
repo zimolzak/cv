@@ -197,12 +197,12 @@ for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 
 # Teaching
 
-**Inquiry Project**. 2023-present. Funded as faculty for a new
-curriculum component and course block, designed to promote
-hypothesis-driven medical student scholarship on a mentored project,
-with activities across all 4 years of medical school. Serving as a
-liaison between information technology and students, to construct an
-educational data warehouse extracted from local electronic health
+**Student Scholarship and Inquiry Project**. 2023-present. Funded as
+faculty for a new curriculum component and course block, designed to
+promote hypothesis-driven medical student scholarship on a mentored
+project, with activities across all 4 years of medical school. Serving
+as a liaison between information technology and students, to construct
+an educational data warehouse extracted from local electronic health
 records, for use in student projects.
 
 ## Mentoring (long-term contact)
@@ -732,7 +732,7 @@ Office (CSR&D). 9/2020.\
 **Methods Analytics and Data Education Initiative,** IQuESt.
 1/2020-present.\
 **Patient, Physician, and Society** preceptor, Baylor College of
-Medicine.\
+Medicine 2019-20.\
 **Institutional Review Board,** member, VA Boston Healthcare System.
 9/2017-11/2018.\
 **NEJM Group Open Forum.** Moderator for a forum where authors discuss
