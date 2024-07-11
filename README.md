@@ -161,23 +161,25 @@ a large portion of the proposal and managed multiple steps in
 integrating sections, completing sections, and finalizing with
 administrators.
 
-Co-Investigator: **Measuring Missed Opportunities in the Diagnosis of
-Gastrointestinal Cancers.** Gordon and Betty Moore Foundation.
-7/1/2022-12/31/2023. GBMF 11505. Amount: \$500,000 for 18 months.
-
 Co-Investigator: **The Patient-Partnered Diagnostic Center of
 Excellence.** AHRQ R18. 10/01/2022-09/30/2026. 1 R18 HS029356-01.
 \$4,000,000.
 
-Advisor: **Identifying current clinical care processes to reduce delays
-in colorectal cancer diagnoses.** Society to Improve Diagnosis in
-Medicine, DxQI Seed Grant Program. Lead: Disha Kumar, VA Chief Resident
-in Quality and Safety.
+## Completed
 
 Co-Investigator: **An Electronic Trigger Tool to Detect Missed
 Opportunities for Barrett's Esophagus Screening.** Baylor College of
 Medicine, Department of Medicine Physician-Scientist/Investigator
 Faculty Development Award. 07/01/2022-06/30/2024. Amount: \$207,906.
+
+Co-Investigator: **Measuring Missed Opportunities in the Diagnosis of
+Gastrointestinal Cancers.** Gordon and Betty Moore Foundation.
+7/1/2022-12/31/2023. GBMF 11505. Amount: \$500,000 for 18 months.
+
+Advisor: **Identifying current clinical care processes to reduce delays
+in colorectal cancer diagnoses.** Society to Improve Diagnosis in
+Medicine, DxQI Seed Grant Program. Lead: Disha Kumar, VA Chief Resident
+in Quality and Safety.
 
 Co-Investigator: **Measuring and Improving the Safety of Test Result
 Follow-Up.** VA HSR&D. 10/2018-9/2023. I01 HX002439 / IIR 17-127.
