@@ -328,17 +328,21 @@ out of the incoming class of about 10,000.
 
 # Publications
 
-Murphy DR, Zimolzak AJ, Upadhyay DK, Wei L, Jolly P, Offner A, Sittig
-DF, Korukonda S, Rekha RM, Singh H. **Developing electronic clinical
-quality measures to assess the cancer diagnostic process.** J Am Med
-Inform Assoc. 2023 Aug 18;30(9):1526-1531.
+Kapadia P, Zimolzak AJ, Upadhyay DK, *et al.* **Development and
+Implementation of a Digital Quality Measure of Emergency Cancer
+Diagnosis.** J Clin Oncol. 2024;42(21):2506-2515.
 
 Honerlaw J, Ho YL, Fontin F, Gosian J, Maripuri M, Murray M, Sangar R,
 Galloway A, Zimolzak AJ, Whitbourne SB, Casas JP, Ramoni RB, Gagnon DR,
 Cai T, Liao KP, Gaziano JM, Muralidhar S, Cho K. **Framework of the
 Centralized Interactive Phenomics Resource (CIPHER) standard for
 electronic health data-based phenomics knowledgebase.** J Am Med Inform
-Assoc. 2023 Mar 7:ocad030. Epub ahead of print.
+Assoc. 2024;31(5):1126-1134.
+
+Murphy DR, Zimolzak AJ, Upadhyay DK, Wei L, Jolly P, Offner A, Sittig
+DF, Korukonda S, Rekha RM, Singh H. **Developing electronic clinical
+quality measures to assess the cancer diagnostic process.** J Am Med
+Inform Assoc. 2023 Aug 18;30(9):1526-1531.
 
 Zimolzak AJ, Davila JA, Punugoti V, *et al.* **Lessons learned from an
 enterprise-wide clinical datathon.** J Clin Transl Sci. 2022;6(1):e125.
@@ -425,6 +429,17 @@ We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
 # Presentations (national/international)
+
+Kapadia P, Ali B, Zimolzak A, Singh H, Khalaf N. **Development of an
+Algorithm to Automate the Detection of Emergency Presentations Among
+Pancreatic Cancer Patients.** Digestive Disease Week. Washington DC,
+5/21/2024.
+
+Zimolzak A, Kapadia P, Murphy DR, Upadhyay D, Mushtaq U, Mir U, Offner
+A, Korukonda S, Murugaesh Rekha R, Abel G, Lyratzopoulos G, Mounce L,
+Singh H. **Development, Implementation, and Validation of a Digital
+Quality Measure of Emergency Cancer Presentation.** Oncologic Emergency
+Medicine Conference. Houston, 2/2024.
 
 Zimolzak AJ, Yu M, Wu Y, Wei L, Mir U, Gupta A, Vaghani V, Hassan A,
 Mower J, Subramanian D, Singh H. **Machine Learning for Enhanced
@@ -725,9 +740,11 @@ Sources.** VA Research week. Boston; 5/18/2017.
 
 # Professional Service
 
+**Phenotype Working Group,** part of BCM Department of Medicine Learning
+Health System initiative. 2023-present.\
 **Artificial intelligence Request for applications,** reviewer. BCM-wide
 funding opportunity for AI projects. 2024.\
-**BCM Data Governance Committe,** member. 2024-present.\
+**BCM Data Governance Committee,** member. 2024-present.\
 **Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
 career development grants (3).\
 **VA CIPHER expert panel,** 2024. Advise on the future direction of the
