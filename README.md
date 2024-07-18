@@ -290,6 +290,9 @@ Step 3 5/2010.\
 
 # Honors and Awards
 
+**Most Creative Use of Tools,** Baylor College of Medicine Datathon,
+April 2024. Project entitled "An exploration of optimism in medical
+record notes for pneumonia and associated patient length of stay."\
 **Best oral presentation of the conference,** Society to Improve
 Diagnosis in Medicine, 10/2023. Title: "Machine Learning for Enhanced
 Electronic Trigger Detection of Diagnostic Errors."\
@@ -722,8 +725,13 @@ Sources.** VA Research week. Boston; 5/18/2017.
 
 # Professional Service
 
+**Artificial intelligence Request for applications,** reviewer. BCM-wide
+funding opportunity for AI projects. 2024.\
+**BCM Data Governance Committe,** member. 2024-present.\
 **Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
 career development grants (3).\
+**VA CIPHER expert panel,** 2024. Advise on the future direction of the
+Centralized Interactive Phenomics Resource.\
 **Electronic laboratory notebook working group,** Baylor College of
 Medicine. 10/2021-7/2022.\
 **Research Data Security Committee,** IQuESt. 2/2022-present.\
@@ -747,6 +755,7 @@ https://f1000research.com/articles/9-1186 .\
 **PLoS ONE,** reviewer. 11/2012-present.\
 **Journal of Health Services Research & Policy,** reviewer.
 8/2015-present.\
+**Diagnosis,** ad-hoc reviewer. 2024-present.\
 **AMIA Annual Symposium,** reviewer. 2015-present.\
 **Physicians and Social Media: Keeping it Professional.** Planning
 committee member, panel moderator. 9/26/2013.\
