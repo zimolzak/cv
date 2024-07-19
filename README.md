@@ -280,7 +280,7 @@ CCP, valid through 12/31/2029.\
 **Massachusetts** full medical license 6/2011-present. No. 249050
 (inactive), exp 11/21/2025.\
 **Missouri** full medical license 6/2010-present. No. 2010020878, exp
-1/31/2024\
+1/31/2025\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
 Physicians, 9/2011-2015.\
@@ -776,14 +776,11 @@ https://f1000research.com/articles/9-1186 .\
 **AMIA Annual Symposium,** reviewer. 2015-present.\
 **Physicians and Social Media: Keeping it Professional.** Planning
 committee member, panel moderator. 9/26/2013.\
-**Critical Data.** Planning committee member, and participant. "Data
-marathon" events at MIT. Assisted my team with SQL data pull, predictive
-modeling, clinical expertise. 1/3/2014-1/7/2014, and
-9/5/2014-9/7/2014.\
+**Critical Data.** Planning committee, participant. "Data marathons" at
+MIT. 1/3/2014-1/7/2014, and 9/5/2014-9/7/2014.\
 **Computing in Cardiology.** Planning committee & reviewer. Three day
 conference for international participants from medicine, physics,
 engineering and computer science. 9/8/2014-9/10/2014.\
 **Massachusetts American College of Physicians Annual Scientific
-Meeting.** Planning committee, moderator for *Jeopardy!*-style quiz
-tournament, reviewer for abstract/poster competition, 2014-2016.
+Meeting.** Planning committee, quiz moderator, reviewer. 2014-2016.
 
