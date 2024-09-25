@@ -141,6 +141,11 @@ projects average 100%.)
 
 # Grants
 
+Senior/key personnel: **Consortium for Translational and Precision
+Health.** NCATS. 09/01/2024-07/31/2031. 1 UM1 TR004539-01A1. \$44.2
+million. One of many senior/key personnel funded on this large,
+multi-institution Clinical and Translational Science Award.
+
 Co-investigator: **Enhancing VA Implementation and Dissemination of
 Electronic Health Record Modernization through a National Collaborative
 Effort (EVIDENCE).** VA HSR&D Service-directed research.
@@ -328,6 +333,14 @@ out of the incoming class of about 10,000.
 
 # Publications
 
+Zimolzak AJ, Khan S, Singh H, Davila J. **Application of a Digital
+Quality Measure for Cancer Diagnosis in Epic Cosmos.** J Am Med Inform
+Assoc. (Accepted, pending release.) doi: 10.1093/jamia/ocae253
+
+Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
+Electronic Detection of Diagnostic Errors.** JAMA Netw Open.
+2024;7(9):e2431982. Published 2024 Sep 3.
+
 Kapadia P, Zimolzak AJ, Upadhyay DK, *et al.* **Development and
 Implementation of a Digital Quality Measure of Emergency Cancer
 Diagnosis.** J Clin Oncol. 2024;42(21):2506-2515.
@@ -430,10 +443,20 @@ thesis, 5/17/2013.
 
 # Presentations (national/international)
 
+Zimolzak A, Zastrow R, Bezek S, Bradford A, Mir U, Ehsan S, Vaghani V,
+Sittig D, Singh H. **Translating Electronic Trigger Tools to Partner
+Institutions for Learning and Exploration of Diagnostic Excellence.**
+DEX24. Minneapolis MN, 10/13/2024.
+
 Kapadia P, Ali B, Zimolzak A, Singh H, Khalaf N. **Development of an
 Algorithm to Automate the Detection of Emergency Presentations Among
 Pancreatic Cancer Patients.** Digestive Disease Week. Washington DC,
 5/21/2024.
+
+Zimolzak AJ, *et al.* **Application of a Digital Quality Measure for
+Cancer Diagnosis in Epic Cosmos.** Oral and Poster Presentation. Danish
+Society for Patient Safety Conference 2024. April 2024. Copenhagen,
+Denmark.
 
 Zimolzak A, Kapadia P, Murphy DR, Upadhyay D, Mushtaq U, Mir U, Offner
 A, Korukonda S, Murugaesh Rekha R, Abel G, Lyratzopoulos G, Mounce L,
@@ -693,6 +716,9 @@ Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
 
+Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture. 7/2024.
+https://zenodo.org/doi/10.5281/zenodo.11393188
+
 Zimolzak AJ. **Electronic Health Record Data for Health Policy
 Research.** Invited lecture to medical students in the health policy
 track. 12/5/2023. https://doi.org/10.5281/zenodo.10267057
@@ -747,6 +773,7 @@ funding opportunity for AI projects. 2024.\
 **BCM Data Governance Committee,** member. 2024-present.\
 **Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
 career development grants (3).\
+**Faculty candidate interviewer,** IQuESt. 2023-present.\
 **VA CIPHER expert panel,** 2024. Advise on the future direction of the
 Centralized Interactive Phenomics Resource.\
 **Electronic laboratory notebook working group,** Baylor College of
