@@ -280,12 +280,12 @@ data environment, and regulatory compliance.
 participating in MOC.\
 **Clinical Informatics** board-certified 1/1/2014 (ABPM), completed 2023
 CCP, valid through 12/31/2029.\
-**Texas** full medical license 8/2018-present. No. R8850, exp
-8/31/2024.\
-**Massachusetts** full medical license 6/2011-present. No. 249050
+**Texas** full medical license 8/24/2018-present. No. R8850, exp
+8/31/2026.\
+**Massachusetts** full medical license 7/20/2011-present. No. 249050
 (inactive), exp 11/21/2025.\
-**Missouri** full medical license 6/2010-present. No. 2010020878, exp
-1/31/2025\
+**Missouri** full medical license 6/25/2010-present. No. 2010020878,
+exp 1/31/2025\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
 Physicians, 9/2011-2015.\
@@ -333,11 +333,16 @@ out of the incoming class of about 10,000.
 
 # Publications
 
-Zimolzak AJ, Khan S, Singh H, Davila J. **Application of a Digital
-Quality Measure for Cancer Diagnosis in Epic Cosmos.** J Am Med Inform
-Assoc. (Accepted, pending release.) doi: 10.1093/jamia/ocae253
+Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
+Series Collaborative for Missed Test Results: A Stepped-Wedge
+Cluster-Randomized Clinical Trial.** JAMA Netw Open.
+2024;7(10):e2440269. Published 2024 Oct 1.
 
-Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
+Zimolzak AJ, Khan SP, Singh H, Davila JA. **Application of a digital
+quality measure for cancer diagnosis in Epic Cosmos.** J Am Med Inform
+Assoc. Published online October 11, 2024.
+
+Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
 Electronic Detection of Diagnostic Errors.** JAMA Netw Open.
 2024;7(9):e2431982. Published 2024 Sep 3.
 
@@ -453,7 +458,7 @@ Algorithm to Automate the Detection of Emergency Presentations Among
 Pancreatic Cancer Patients.** Digestive Disease Week. Washington DC,
 5/21/2024.
 
-Zimolzak AJ, *et al.* **Application of a Digital Quality Measure for
+Zimolzak AJ, *et al.* **Application of a Digital Quality Measure for
 Cancer Diagnosis in Epic Cosmos.** Oral and Poster Presentation. Danish
 Society for Patient Safety Conference 2024. April 2024. Copenhagen,
 Denmark.
@@ -715,6 +720,11 @@ of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
+
+Sandoval G, Zimolzak AJ, Khalaf N. **A Digital Quality Measure for
+Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
+Medical Center Quality Management and Improvement Summit, selected for
+oral presentation. Houston, 10/15/24.
 
 Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture. 7/2024.
 https://zenodo.org/doi/10.5281/zenodo.11393188
