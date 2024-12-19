@@ -333,6 +333,15 @@ out of the incoming class of about 10,000.
 
 # Publications
 
+Khalaf N, Ali B, Zimolzak AJ, *et al.* **Prevalence and Outcomes of
+Emergency Presentations of Colorectal Cancer in Veterans Affairs Health
+Care System.** *Dig Dis Sci.* Published online December 11, 2024.
+
+Vaghani V, Gupta A, Mir U, Wei L, Murphy DR, Mushtaq U, Sittig DF,
+Zimolzak AJ, Singh H. **Implementation of Electronic Triggers to
+Identify Diagnostic Errors in Emergency Departments.** *JAMA Intern
+Med.* Published online December 2, 2024.
+
 Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
 Series Collaborative for Missed Test Results: A Stepped-Wedge
 Cluster-Randomized Clinical Trial.** JAMA Netw Open.
