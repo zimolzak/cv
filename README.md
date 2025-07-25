@@ -214,13 +214,13 @@ records, for use in student projects.
 
 ## Mentoring (long-term contact)
 
-**Jennifer Sloane** (informal). 2022-present. Postdoctoral fellow in
+**Jennifer Sloane** (informal). 2022-2025. Postdoctoral fellow in
 cognitive psychology. Mentored in clinical topics and VA data
 environment.
 
-**Theresa Nguyen** (formal). 9/2021-present. Fellow awarded Department
-of Medicine grant that includes me on mentorship team. Mentoring in VA
-data availability and predictive model application.
+**Theresa Nguyen** (formal). 9/2021-2025. Fellow awarded Department of
+Medicine grant that includes me on mentorship team. Mentoring in VA data
+availability and predictive model application.
 
 **Paarth Kapadia** (informal). 1/2020-2023. MD student at Baylor
 College of Medicine doing year-long research experience. Mentored in
@@ -249,7 +249,7 @@ revision.
 
 ## Mentoring (short-term contact)
 
-**Adel Hassan** (informal). 2023-present. Medical student performing
+**Adel Hassan** (informal). 2023-2024. Medical student performing
 machine learning analyses. Mentored in clinical topics, VA data
 environment, scientific publication, and regulatory compliance.
 
@@ -333,26 +333,37 @@ out of the incoming class of about 10,000.
 
 # Publications
 
+Zimolzak AJ, Kapadia P, Upadhyay DK, *et al.* **Frequent Missed
+Opportunities for Earlier Diagnosis of Advanced-Stage Colorectal or Lung
+Cancer.** *JAMA Intern Med.* Published online July 21, 2025. doi:
+10.1001/jamainternmed.2025.2875
+
+Godwin KM, Grigoryan L, Thrift AP, *et al.* **A cluster randomized trial
+of a Multicomponent Clinical Care Pathway (MCCP) to improve MASLD
+diagnosis and management in primary care: study protocol.** *BMC Health
+Serv Res.* 2025;25(1):645.
+
 Khalaf N, Ali B, Zimolzak AJ, *et al.* **Prevalence and Outcomes of
 Emergency Presentations of Colorectal Cancer in Veterans Affairs Health
-Care System.** *Dig Dis Sci.* Published online December 11, 2024.
+Care System.** *Dig Dis Sci.* 2025;70(1):177-190.
 
 Vaghani V, Gupta A, Mir U, Wei L, Murphy DR, Mushtaq U, Sittig DF,
 Zimolzak AJ, Singh H. **Implementation of Electronic Triggers to
 Identify Diagnostic Errors in Emergency Departments.** *JAMA Intern
-Med.* Published online December 2, 2024.
+Med.* 2025;185(2):143-151.
 
 Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
 Series Collaborative for Missed Test Results: A Stepped-Wedge
-Cluster-Randomized Clinical Trial.** JAMA Netw Open.
+Cluster-Randomized Clinical Trial.** *JAMA Netw Open.*
 2024;7(10):e2440269. Published 2024 Oct 1.
 
 Zimolzak AJ, Khan SP, Singh H, Davila JA. **Application of a digital
-quality measure for cancer diagnosis in Epic Cosmos.** J Am Med Inform
-Assoc. Published online October 11, 2024.
+quality measure for cancer diagnosis in Epic Cosmos.** *J Am Med Inform
+Assoc.* 2025;32(1):227-229. Paper was selected as a *JAMIA* "Editor's
+Choice" article.
 
 Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
-Electronic Detection of Diagnostic Errors.** JAMA Netw Open.
+Electronic Detection of Diagnostic Errors.** *JAMA Netw Open.*
 2024;7(9):e2431982. Published 2024 Sep 3.
 
 Kapadia P, Zimolzak AJ, Upadhyay DK, *et al.* **Development and
