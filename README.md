@@ -336,7 +336,7 @@ out of the incoming class of about 10,000.
 Zimolzak AJ, Kapadia P, Upadhyay DK, *et al.* **Frequent Missed
 Opportunities for Earlier Diagnosis of Advanced-Stage Colorectal or Lung
 Cancer.** *JAMA Intern Med.* Published online July 21, 2025. doi:
-10.1001/jamainternmed.2025.2875
+10.1001/ jamainternmed.2025.2875
 
 Godwin KM, Grigoryan L, Thrift AP, *et al.* **A cluster randomized trial
 of a Multicomponent Clinical Care Pathway (MCCP) to improve MASLD
@@ -816,21 +816,28 @@ Office (CSR&D). 9/2020.\
 **Methods Analytics and Data Education Initiative,** IQuESt.
 1/2020-present.\
 **Patient, Physician, and Society** preceptor, Baylor College of
-Medicine 2019-20.\
+Medicine 2019-2020.\
 **Institutional Review Board,** member, VA Boston Healthcare System.
-9/2017-11/2018.\
-**NEJM Group Open Forum.** Moderator for a forum where authors discuss
-their NEJM articles. 2/2015-3/2015.\
+9/2017-11/2018.
+
+**BMJ Open,** ad-hoc reviewer. 2025-present.\
+**JAMA Network Open,** ad-hoc reviewer. 2025-present.\
+**Pharmacoepidemiology and Drug Safety,** ad-hoc reviewer.
+2025-present.\
+**Future Oncology,** ad-hoc reviewer. 2025-present.\
+**Diagnosis,** ad-hoc reviewer. 2024-present.\
 **F1000Research,** reviewer. 3/2021-present. See also
 https://f1000research.com/articles/9-1186 .\
 **JCO Clinical Cancer Informatics,** reviewer. 2/2020-present.\
 **Digital Health,** reviewer. 12/2019-present.\
 **JMIR Research Protocols,** reviewer. 1/2019-present.\
-**PLoS ONE,** reviewer. 11/2012-present.\
 **Journal of Health Services Research & Policy,** reviewer.
 8/2015-present.\
-**Diagnosis,** ad-hoc reviewer. 2024-present.\
 **AMIA Annual Symposium,** reviewer. 2015-present.\
+**NEJM Group Open Forum.** Moderator for a forum where authors discuss
+their NEJM articles. 2/2015-3/2015.\
+**PLoS ONE,** reviewer. 11/2012-present.
+
 **Physicians and Social Media: Keeping it Professional.** Planning
 committee member, panel moderator. 9/26/2013.\
 **Critical Data.** Planning committee, participant. "Data marathons" at
