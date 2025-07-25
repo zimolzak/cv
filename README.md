@@ -40,14 +40,15 @@ possible. This work is known by several names: *secondary use* of
 electronic health record data, *clinical research informatics,* or
 *phenotyping.* I interpret clinical language and systems for data pull
 engineers/analysts, or vice versa (interpreting technical language for
-clinical investigators). I access a data warehouse covering $> 20$
+clinical investigators). I access a data warehouse covering more than 20
 million unique individuals, and billions of observations, from 1999 to
 the present, aggregated from 130 VA sites (but incompletely
 standardized/harmonized). Major projects include disseminating
 algorithms to detect missed laboratory test follow-ups, and clinical
 trials matching. I also work as a **teaching attending** on the VA
 hospitalist service, supervising house staff and students. Supervisors:
-Hardeep Singh, Chris Amos, Andrew Caruso, Lindsey Gay.
+Hardeep Singh, Fasiha Kanwal, Jessica Davila, Chris Amos, Andrew Caruso,
+Lindsey Gay.
 
 **Clinical informatician,** Massachusetts Veterans Epidemiology Research
 and Information Center (MAVERIC), 10/20/2014-11/9/2018. **Assistant
@@ -285,7 +286,7 @@ CCP, valid through 12/31/2029.\
 **Massachusetts** full medical license 7/20/2011-present. No. 249050
 (inactive), exp 11/21/2025.\
 **Missouri** full medical license 6/25/2010-present. No. 2010020878,
-exp 1/31/2025\
+exp 1/31/2026\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
 Physicians, 9/2011-2015.\
@@ -295,6 +296,8 @@ Step 3 5/2010.\
 
 # Honors and Awards
 
+***JAMIA* Editor's Choice,** 2025, for paper entitled "Application of a
+digital quality measure for cancer diagnosis in Epic Cosmos."\
 **Most Creative Use of Tools,** Baylor College of Medicine Datathon,
 April 2024. Project entitled "An exploration of optimism in medical
 record notes for pneumonia and associated patient length of stay."\
@@ -746,7 +749,8 @@ Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
 Medical Center Quality Management and Improvement Summit, selected for
 oral presentation. Houston, 10/15/24.
 
-Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture. 7/2024.
+Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture.
+7/2024.\
 https://zenodo.org/doi/10.5281/zenodo.11393188
 
 Zimolzak AJ. **Electronic Health Record Data for Health Policy
@@ -764,12 +768,7 @@ methodology core. 5/26/2023.
 Zimolzak AJ. **Working with data sets for translational research.**
 Baylor College of Medicine course "Orientation to Clinical Translational
 Research," course no. GS-GS-6206. Second-year PhD students in the
-Graduate School of Biomedical Sciences. 2023.
-
-Zimolzak AJ. **Working with data sets for translational research.**
-Baylor College of Medicine course "Orientation to Clinical Translational
-Research," course no. GS-GS-6206. Second-year PhD students in the
-Graduate School of Biomedical Sciences. 8/16/2022.
+Graduate School of Biomedical Sciences. 2023-2025 (3 years).
 
 Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
 Coast Consortia Artificial Intelligence in Healthcare Symposium.
@@ -811,8 +810,6 @@ Medicine. 10/2021-7/2022.\
 **Research Data Security Committee,** IQuESt. 2/2022-present.\
 **House Staff Research Symposium,** reviewer. BCM department of
 medicine. 4/2022.\
-**Lung Precision Oncology Project,** grant review section. VA Central
-Office (CSR&D). 9/2020.\
 **Methods Analytics and Data Education Initiative,** IQuESt.
 1/2020-present.\
 **Patient, Physician, and Society** preceptor, Baylor College of
@@ -828,6 +825,8 @@ Medicine 2019-2020.\
 **Diagnosis,** ad-hoc reviewer. 2024-present.\
 **F1000Research,** reviewer. 3/2021-present. See also
 https://f1000research.com/articles/9-1186 .\
+**VA Lung Precision Oncology Project,** grant review section. VA Central
+Office (CSR&D). 9/2020.\
 **JCO Clinical Cancer Informatics,** reviewer. 2/2020-present.\
 **Digital Health,** reviewer. 12/2019-present.\
 **JMIR Research Protocols,** reviewer. 1/2019-present.\
