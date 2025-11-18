@@ -284,7 +284,7 @@ CCP, valid through 12/31/2029.\
 **Texas** full medical license 8/24/2018-present. No. R8850, exp
 8/31/2026.\
 **Massachusetts** full medical license 7/20/2011-present. No. 249050
-(inactive), exp 11/21/2025.\
+(inactive), exp 11/21/2027.\
 **Missouri** full medical license 6/25/2010-present. No. 2010020878,
 exp 1/31/2026\
 **American Medical Informatics Association** member 2011-present.\
@@ -336,10 +336,19 @@ out of the incoming class of about 10,000.
 
 # Publications
 
+Olson APJ, Sloane J, Zimolzak A, *et al.* **A framework for defining
+diagnostically challenging conditions identifiable through electronic
+algorithms.** *Diagnosis (Berl).* Published online October 27, 2025.
+doi:10.1515/dx-2025-0034
+
+Khalaf N, Ali B, Zimolzak A, *et al.* **Digital quality measure of
+potentially avoidable emergency presentations among patients with
+colorectal cancer.** *BMJ Qual Saf.* Published online October 9, 2025.
+doi:10.1136/bmjqs-2025-019084
+
 Zimolzak AJ, Kapadia P, Upadhyay DK, *et al.* **Frequent Missed
 Opportunities for Earlier Diagnosis of Advanced-Stage Colorectal or Lung
-Cancer.** *JAMA Intern Med.* Published online July 21, 2025. doi:
-10.1001/ jamainternmed.2025.2875
+Cancer.** *JAMA Intern Med.* 2025;185(9):1102-1108.
 
 Godwin KM, Grigoryan L, Thrift AP, *et al.* **A cluster randomized trial
 of a Multicomponent Clinical Care Pathway (MCCP) to improve MASLD
@@ -795,6 +804,7 @@ Sources.** VA Research week. Boston; 5/18/2017.
 
 # Professional Service
 
+**Faculty Senate,** BCM, 2025-present.\
 **Phenotype Working Group,** part of BCM Department of Medicine Learning
 Health System initiative. 2023-present.\
 **Artificial intelligence Request for applications,** reviewer. BCM-wide
