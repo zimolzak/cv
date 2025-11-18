@@ -5,7 +5,7 @@ FILES = zimolzak-cv.pdf zimolzak-cv.docx zimolzak-cv.tex README.md pandocme.tex 
 all: $(FILES)
 
 zimolzak-cv.tex: zimolzak-cv-pre.tex preprocess.py secrets.py
-	python preprocess.py > $@  # Will contain real addresses, phones.
+	python3 preprocess.py > $@  # Will contain real addresses, phones.
 
 zimolzak-cv.docx: zimolzak-cv.tex
 	pandoc -o $@ $<
@@ -16,7 +16,7 @@ zimolzak-cv.pdf : zimolzak-cv.tex cv.sty
 	cp $@ ~/Dropbox
 
 zimolzak-cv-public.pdf: zimolzak-cv-pre.tex preprocess.py secrets.py cv.sty
-	python preprocess.py --censor > deleteme.tex
+	python3 preprocess.py --censor > deleteme.tex
 	xelatex deleteme.tex
 	xelatex deleteme.tex
 	mv deleteme.pdf $@
