@@ -904,6 +904,8 @@ Office (CSR&D). 9/2020.\
 their NEJM articles. 2/2015-3/2015.\
 **PLoS ONE,** reviewer. 11/2012-present.
 
+**Artificial Intelligence in Health** conference, Rice University.
+Reviewer. 9/2025.\
 **Physicians and Social Media: Keeping it Professional.** Planning
 committee member, panel moderator. 9/26/2013.\
 **Critical Data.** Planning committee, participant. "Data marathons" at
