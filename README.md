@@ -78,7 +78,7 @@ collection of intensive care unit data covering 8 years. Collaborated on
 writing and submitting a R25 grant. Professor: Leo Celi.
 
 **Research fellow,** Children's Hospital Informatics Program,
-Intelligent Health Laboratory, 7/1/2011-1/31/2014. Analyzed pharmacy
+Intelligent Health Lab­o­ra­to­ry, 7/1/2011-1/31/2014. Analyzed pharmacy
 claims to develop predictive models of medication adherence. Used **SAS
 and logistic regression** to analyze $\sim$ 300M claims from 61M
 individuals. Designed and wrote all code (2,000 lines in the final
@@ -415,7 +415,7 @@ Journal of General Internal Medicine 37(1):137-144. Published online
 ## Before 2022
 
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
-Detection Using Refined and Physiological-Feature Augmented Urine
+Detection Using Refined and Phys­i­o­log­i­cal-Fea­ture Augmented Urine
 Output.** Scientific Reports 11(1):19561.
 
 Vassy JL, Gaziano JM, Green RC, Ferguson RE, Advani S, Miller SJ, Chun
