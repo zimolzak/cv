@@ -502,10 +502,6 @@ Singh, Natalia Khalaf. **A Digital Quality Measure for Emergency
 Presentation of Pancreatic Cancer.** Digestive Disease Week (DDW).
 Chicago, 5/6/2025.
 
-Zimolzak AJ. **Machine Learning for Enhanced Electronic Trigger
-Detection of Diagnostic Errors.** VA Method Advisory Council. January
-29, 2025. Invited presentation \[national\].
-
 Zimolzak A, Zastrow R, Bezek S, Bradford A, Mir U, Ehsan S, Vaghani V,
 Sittig D, Singh H. **Translating Electronic Trigger Tools to Partner
 Institutions for Learning and Exploration of Diagnostic Excellence.**
@@ -909,6 +905,10 @@ Zimolzak AJ. **Applications of Epic Cosmos.** Invited presentation
 
 Zimolzak AJ. **Applications of Epic Cosmos.** Invited presentation
 \[local\]: BCM Love Data Week. February 12, 2025.
+
+Zimolzak AJ. **Machine Learning for Enhanced Electronic Trigger
+Detection of Diagnostic Errors.** VA Method Advisory Council. January
+29, 2025. Invited presentation \[national\].
 
 Zimolzak AJ. **AI and ML History, Definitions, and Pitfalls: An
 Opinionated Overview.** Invited presentation \[local\]: BCM data science
