@@ -147,18 +147,9 @@ Health.** NCATS. 09/01/2024-07/31/2031. 1 UM1 TR004539-01A1. \$44.2
 million. One of many senior/key personnel funded on this large,
 multi-institution Clinical and Translational Science Award.
 
-Co-investigator: **Enhancing VA Implementation and Dissemination of
-Electronic Health Record Modernization through a National Collaborative
-Effort (EVIDENCE).** VA HSR&D Service-directed research.
-10/2023-9/2025.
-
 Co-Investigator: **A Health Informatics Approach to Reduce Missed
 Opportunities for Barrett's Esophagus Screening.** American College of
 Gastroenterology. 07/01/2023-06/30/2026. Amount: \$450,000.
-
-Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
-Improvement Safety Center (DISCovery).** VHA National Center for Patient
-Safety. 10/01/2022-09/30/2025. Amount: \$1,185,000.
 
 Co-Investigator: **Diagnostic Safety Center for Advancing E-triggers and
 Rapid Feedback Implementation (DISCOVERI).** AHRQ R18.
@@ -167,11 +158,20 @@ a large portion of the proposal and managed multiple steps in
 integrating sections, completing sections, and finalizing with
 administrators.
 
+## Completed
+
+Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
+Improvement Safety Center (DISCovery).** VHA National Center for Patient
+Safety. 10/01/2022-09/30/2025. Amount: \$1,185,000.
+
 Co-Investigator: **The Patient-Partnered Diagnostic Center of
 Excellence.** AHRQ R18. 10/01/2022-09/30/2026. 1 R18 HS029356-01.
 \$4,000,000.
 
-## Completed
+Co-investigator: **Enhancing VA Implementation and Dissemination of
+Electronic Health Record Modernization through a National Collaborative
+Effort (EVIDENCE).** VA HSR&D Service-directed research.
+10/2023-9/2025.
 
 Co-Investigator: **An Electronic Trigger Tool to Detect Missed
 Opportunities for Barrett's Esophagus Screening.** Baylor College of
@@ -286,13 +286,13 @@ CCP, valid through 12/31/2029.\
 **Massachusetts** full medical license 7/20/2011-present. No. 249050
 (inactive), exp 11/21/2027.\
 **Missouri** full medical license 6/25/2010-present. No. 2010020878,
-exp 1/31/2026\
+exp 1/31/2027\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
 Physicians, 9/2011-2015.\
 **USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
 Step 3 5/2010.\
-**ACLS and BLS** certified (exp 1/31/2026).
+**ACLS and BLS** certified (exp 2/29/2028).
 
 # Honors and Awards
 
@@ -787,28 +787,28 @@ Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
 
-5\. Natalia Khalaf, MD, MPH, Basim Ali, MD, Andrew J. Zimolzak MD, MMSc,
-Fasiha Kanwal, MD, MSHS, Hardeep Singh, MD, MPH. Potentially Avoidable
-Emergency Presentations Among Patients with Colorectal Cancer: Digital
-Quality Measure Enhancement and Application. BCM QIPS conference.
+Natalia Khalaf, Basim Ali, Andrew J. Zimolzak, Fasiha Kanwal, Hardeep
+Singh. **Potentially Avoidable Emergency Presentations Among Patients
+with Colorectal Cancer: Digital Quality Measure Enhancement and
+Application.** BCM QIPS conference.
 
-6\. Natalia Khalaf, MD, MPH, Gabriel Sandoval, MD, Andrew J. Zimolzak
-MD, MMSc, Yan Liu, MS, Hardeep Singh, MD, MPH. A Digital Quality Measure
-for Emergency Presentation of Pancreatic Cancer. BCM QIPS conference.
+Natalia Khalaf, Gabriel Sandoval, Andrew J. Zimolzak, Yan Liu, Hardeep
+Singh. **A Digital Quality Measure for Emergency Presentation of
+Pancreatic Cancer.** BCM QIPS conference.
 
-8\. Invited presentation \[local\]: UTHealth School of Biomedical
-Informatics, research seminar. November 19, 2025. Machine Learning to
-Enhance Electronic Detection of Diagnostic Errors.
+Zimolzak AJ. **Machine Learning to Enhance Electronic Detection of
+Diagnostic Errors.** Invited presentation \[local\]: UTHealth School of
+Biomedical Informatics research seminar. November 19, 2025.
 
-9\. Invited presentation \[local\]: BCM data science seminar. April 16,
-2025. Applications of Epic Cosmos.
+Zimolzak AJ. **Applications of Epic Cosmos.** Invited presentation
+\[local\]: BCM data science seminar. April 16, 2025.
 
-10\. Invited presentation \[local\]: BCM Love Data Week. February 12,
-2025. Applications of Epic Cosmos.
+Zimolzak AJ. **Applications of Epic Cosmos.** Invited presentation
+\[local\]: BCM Love Data Week. February 12, 2025.
 
-Invited presentation \[local\]: BCM data science seminar. December 18,
-2024. AI and ML History, Definitions, and Pitfalls: An Opinionated
-Overview.
+Zimolzak AJ. **AI and ML History, Definitions, and Pitfalls: An
+Opinionated Overview.** Invited presentation \[local\]: BCM data science
+seminar. December 18, 2024.
 
 Sandoval G, Zimolzak AJ, Khalaf N. **A Digital Quality Measure for
 Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
@@ -910,7 +910,7 @@ committee member, panel moderator. 9/26/2013.\
 MIT. 1/3/2014-1/7/2014, and 9/5/2014-9/7/2014.\
 **Computing in Cardiology.** Planning committee & reviewer. Three day
 conference for international participants from medicine, physics,
-engineering and computer science. 9/8/2014-9/10/2014.\
+engineering, and computer science. 9/8/2014-9/10/2014.\
 **Massachusetts American College of Physicians Annual Scientific
 Meeting.** Planning committee, quiz moderator, reviewer. 2014-2016.
 
