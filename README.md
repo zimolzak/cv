@@ -140,7 +140,63 @@ weeks. Took 9600 words of notes with extensive mathematical notation and
 wrote around 2000 lines of code. In-class exercises average 95%,
 projects average 100%.)
 
-# Grants
+# Honors and Awards
+
+***JAMIA* Editor's Choice,** 2025, for paper entitled "Application of a
+digital quality measure for cancer diagnosis in Epic Cosmos."\
+**Most Creative Use of Tools,** Baylor College of Medicine Datathon,
+April 2024. Project entitled "An exploration of optimism in medical
+record notes for pneumonia and associated patient length of stay."\
+**Best oral presentation of the conference,** Society to Improve
+Diagnosis in Medicine, 10/2023. Title: "Machine Learning for Enhanced
+Electronic Trigger Detection of Diagnostic Errors."\
+**GME Poster award,** MEDVAMC Education Day, 3/2023. "Increasing Usage
+of an Inpatient Insulin Order Set."\
+**Poster award,** BCM House Staff Research Symposium, 2023. "Increasing
+Usage of an Inpatient Insulin Order Set."\
+**Best of the best oral abstracts,** Society to Improve Diagnosis in
+Medicine, 10/2022. Title: "Implementation, validation, and mortality
+association of 2 cancer diagnosis digital quality measures."\
+**Most innovative use of data,** Baylor College of Medicine Datathon,
+April 2022. Project entitled "The association of biased language in
+medical text with diagnostic error."\
+**Excellence in Collaboration,** Baylor College of Medicine Datathon,
+October 2020. Project entitled "Understanding predictors of severe
+COVID-19 outcomes." One of the few projects to achieve end-to-end
+success in identifying data elements, data extraction, analysis, and
+results. All analyses performed by me in essentially 24 hours.\
+**Reviewers' Choice Abstract,** American Society of Human Genetics
+Annual Meeting, 2017. Abstract entitled "Developing validated phenotypic
+cancer cohorts...."\
+**Finalist,** Surescripts 2014 Adherence Challenge. Member of a team
+selected as one of ten finalists. Primary responsibility for drafting
+the proposal. 8/15/2014-1/8/2015.\
+**Third prize, patient safety & quality improvement category,** 8/2010.
+American College of Physicians, Missouri Chapter Scientific Meeting,
+associate poster competition.\
+**Tower Guard,** 1999-2000. Service-oriented academic honor society for
+Michigan State University sophomores.\
+**Distinguished Freshman Scholarship,** Michigan State University.
+Competitive four-year full tuition scholarship awarded to 35 students
+out of the incoming class of about 10,000.
+
+# Board Certifications and Credentials
+
+**American Board of Internal Medicine** certified 8/10/2011,
+participating in MOC.\
+**Clinical Informatics** board-certified 1/1/2014 (ABPM), completed 2023
+CCP, valid through 12/31/2029.\
+**Texas** full medical license 8/24/2018-present. No. R8850, exp
+8/31/2026.\
+**Massachusetts** full medical license 7/20/2011-present. No. 249050
+(inactive), exp 11/21/2027.\
+**Missouri** full medical license 6/25/2010-present. No. 2010020878,
+exp 1/31/2027\
+**USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
+Step 3 5/2010.\
+**ACLS and BLS** certified (exp 2/29/2028).
+
+# Research Support
 
 Senior/key personnel: **Consortium for Translational and Precision
 Health.** NCATS. 09/01/2024-07/31/2031. 1 UM1 TR004539-01A1. \$44.2
@@ -158,7 +214,7 @@ a large portion of the proposal and managed multiple steps in
 integrating sections, completing sections, and finalizing with
 administrators.
 
-## Completed
+## Completed Research Support
 
 Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
 Improvement Safety Center (DISCovery).** VHA National Center for Patient
@@ -203,138 +259,74 @@ Co-Investigator: **The Safer Dx Learning Lab: A Demonstration Project
 for Improving Diagnostic Safety.** Gordon and Betty Moore Foundation.
 6/30/2017-5/31/2020. GBMF 5498. Amount: \$3,525,397 for 36 months.
 
-# Teaching
+# National Scientific Participation
 
-**Student Scholarship and Inquiry Project**. 2023-present. Funded as
-faculty for a new curriculum component and course block, designed to
-promote hypothesis-driven medical student scholarship on a mentored
-project, with activities across all 4 years of medical school. Serving
-as a liaison between information technology and students, to construct
-an educational data warehouse extracted from local electronic health
-records, for use in student projects.
+## Editorial and Peer Review
 
-## Mentoring (long-term contact)
+**BMJ Open,** ad-hoc reviewer. 2025-present.\
+**JAMA Network Open,** ad-hoc reviewer. 2025-present.\
+**Pharmacoepidemiology and Drug Safety,** ad-hoc reviewer.
+2025-present.\
+**Future Oncology,** ad-hoc reviewer. 2025-present.\
+**Artificial Intelligence in Health** conference, Rice University.
+Reviewer. 9/2025.\
+**Diagnosis,** ad-hoc reviewer. 2024-present.\
+**F1000Research,** reviewer. 3/2021-present. See also
+https://f1000research.com/articles/9-1186 .\
+**House Staff Research Symposium,** reviewer. BCM department of
+medicine. 4/2022.\
+**JCO Clinical Cancer Informatics,** reviewer. 2/2020-present.\
+**Digital Health,** reviewer. 12/2019-present.\
+**JMIR Research Protocols,** reviewer. 1/2019-present.\
+**Journal of Health Services Research & Policy,** reviewer.
+8/2015-present.\
+**AMIA Annual Symposium,** reviewer. 2015-present.\
+**NEJM Group Open Forum.** Moderator for a forum where authors discuss
+their NEJM articles. 2/2015-3/2015.\
+**PLoS ONE,** reviewer. 11/2012-present.\
+**Critical Data.** Planning committee, participant. "Data marathons" at
+MIT. 1/3/2014-1/7/2014, and 9/5/2014-9/7/2014.\
+**Computing in Cardiology.** Planning committee & reviewer. Three day
+conference for international participants from medicine, physics,
+engineering, and computer science. 9/8/2014-9/10/2014.\
+**Physicians and Social Media: Keeping it Professional.** Planning
+committee member, panel moderator. 9/26/2013.\
+**Massachusetts American College of Physicians Annual Scientific
+Meeting.** Planning committee, quiz moderator, reviewer. 2014-2016.
 
-**Jennifer Sloane** (informal). 2022-2025. Postdoctoral fellow in
-cognitive psychology. Mentored in clinical topics and VA data
-environment.
+## Grant and Other Review Panels
 
-**Theresa Nguyen** (formal). 9/2021-2025. Fellow awarded Department of
-Medicine grant that includes me on mentorship team. Mentoring in VA data
-availability and predictive model application.
+**VA Lung Precision Oncology Project,** grant review section. VA Central
+Office (CSR&D). 9/2020.\
+**Institutional Review Board,** member, VA Boston Healthcare System.
+9/2017-11/2018.
 
-**Paarth Kapadia** (informal). 1/2020-2023. MD student at Baylor
-College of Medicine doing year-long research experience. Mentored in
-manuscript preparation, data analysis, regulatory compliance.
+## Committee Positions
 
-**Nathanael Fillmore** (formal). 2016-2017. Nonclinical PhD accepted to
-a VA advanced fellowship. As co-program director for BD-STEP, I was
-responsible for training all fellows regarding clinical topics, the data
-environment, and regulatory compliance. Hired full-time by VA in 2017,
-informal mentoring thereafter. Dr. Fillmore was later promoted to
-director of machine learning at the Boston VA clinical trials center.
+**Faculty Senate,** BCM, 2025-present.\
+**Phenotype Working Group,** part of BCM Department of Medicine Learning
+Health System initiative. 2023-present.\
+**Artificial intelligence Request for applications,** reviewer. BCM-wide
+funding opportunity for AI projects. 2024.\
+**BCM Data Governance Committee,** member. 2024-present.\
+**Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
+career development grants (3).\
+**Faculty candidate interviewer,** IQuESt. 2023-present.\
+**VA CIPHER expert panel,** 2024. Advise on the future direction of the
+Centralized Interactive Phenomics Resource.\
+**Electronic laboratory notebook working group,** Baylor College of
+Medicine. 10/2021-7/2022.\
+**Research Data Security Committee,** IQuESt. 2/2022-present.\
+**Methods Analytics and Data Education Initiative,** IQuESt.
+1/2020-present.
 
-**Brett Johnson** (formal). 2016-2017. BD-STEP fellow.
-Responsibilities: see *Fillmore* above. Hired full-time by VA in 2017,
-informal mentoring thereafter.
+## Professional Societies
 
-**Justine Ryu** (formal & informal). 7/2016 research elective, through
-2020 publication. Internal medicine resident at Boston University.
-Mentored in exposure to machine learning techniques, journal submission,
-and revision.
-
-**Sahar Alkhairy** (informal). 2014-2020. Undergraduate and graduate
-student in computer science and molecular biology at MIT. Mentored in
-research record keeping, clinical topics, journal submission, and
-revision.
-
-## Mentoring (short-term contact)
-
-**Adel Hassan** (informal). 2023-2024. Medical student performing
-machine learning analyses. Mentored in clinical topics, VA data
-environment, scientific publication, and regulatory compliance.
-
-**Disha Kumar** (informal). 7/2022-2023. Chief resident in quality and
-safety at VA hospital. Mentored in data retrieval and phenotyping
-strategies to identify inpatients with advanced cirrhosis, and missed
-follow-up of colorectal cancer screening.
-
-**Angela Wu** (informal). 2022. Computer science graduate student
-performing machine learning and natural language processing analyses.
-Mentored in clinical topics, VA data environment, and regulatory
-compliance.
-
-**Freddie Peng** (informal). 2021-2022. Chief resident in quality and
-safety. Mentored in data techniques to identify patients with cirrhosis.
-
-**Angela Rao** (informal). Chief resident in quality and safety.
-Mentored in data techniques to measure usage of an inpatient diabetes
-treatment order set.
-
-**Max Yu** (informal). 12/2021-2022. Computer science undergraduate
-coming on board to assist in analysis. Mentored in clinical topics, VA
-data environment, and regulatory compliance.
-
-# Credentials and Memberships
-
-**American Board of Internal Medicine** certified 8/10/2011,
-participating in MOC.\
-**Clinical Informatics** board-certified 1/1/2014 (ABPM), completed 2023
-CCP, valid through 12/31/2029.\
-**Texas** full medical license 8/24/2018-present. No. R8850, exp
-8/31/2026.\
-**Massachusetts** full medical license 7/20/2011-present. No. 249050
-(inactive), exp 11/21/2027.\
-**Missouri** full medical license 6/25/2010-present. No. 2010020878,
-exp 1/31/2027\
 **American Medical Informatics Association** member 2011-present.\
 **Early career physician council,** Massachusetts American College of
-Physicians, 9/2011-2015.\
-**USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
-Step 3 5/2010.\
-**ACLS and BLS** certified (exp 2/29/2028).
+Physicians, 9/2011-2015.
 
-# Honors and Awards
-
-***JAMIA* Editor's Choice,** 2025, for paper entitled "Application of a
-digital quality measure for cancer diagnosis in Epic Cosmos."\
-**Most Creative Use of Tools,** Baylor College of Medicine Datathon,
-April 2024. Project entitled "An exploration of optimism in medical
-record notes for pneumonia and associated patient length of stay."\
-**Best oral presentation of the conference,** Society to Improve
-Diagnosis in Medicine, 10/2023. Title: "Machine Learning for Enhanced
-Electronic Trigger Detection of Diagnostic Errors."\
-**GME Poster award,** MEDVAMC Education Day, 3/2023. "Increasing Usage
-of an Inpatient Insulin Order Set."\
-**Poster award,** BCM House Staff Research Symposium, 2023. "Increasing
-Usage of an Inpatient Insulin Order Set."\
-**Best of the best oral abstracts,** Society to Improve Diagnosis in
-Medicine, 10/2022. Title: "Implementation, validation, and mortality
-association of 2 cancer diagnosis digital quality measures."\
-**Most innovative use of data,** Baylor College of Medicine Datathon,
-April 2022. Project entitled "The association of biased language in
-medical text with diagnostic error."\
-**Excellence in Collaboration,** Baylor College of Medicine Datathon,
-October 2020. Project entitled "Understanding predictors of severe
-COVID-19 outcomes." One of the few projects to achieve end-to-end
-success in identifying data elements, data extraction, analysis, and
-results. All analyses performed by me in essentially 24 hours.\
-**Reviewers' Choice Abstract,** American Society of Human Genetics
-Annual Meeting, 2017. Abstract entitled "Developing validated phenotypic
-cancer cohorts...."\
-**Finalist,** Surescripts 2014 Adherence Challenge. Member of a team
-selected as one of ten finalists. Primary responsibility for drafting
-the proposal. 8/15/2014-1/8/2015.\
-**Third prize, patient safety & quality improvement category,** 8/2010.
-American College of Physicians, Missouri Chapter Scientific Meeting,
-associate poster competition.\
-**Tower Guard,** 1999-2000. Service-oriented academic honor society for
-Michigan State University sophomores.\
-**Distinguished Freshman Scholarship,** Michigan State University.
-Competitive four-year full tuition scholarship awarded to 35 students
-out of the incoming class of about 10,000.
-
-# Publications
+# Full Papers in Peer-Reviewed Journals
 
 Hill MA, Haskell H, Dainty KN, *et al.* **Scoping review of patient and
 family engagement interventions in diagnosis: a paradox of too much, yet
@@ -418,7 +410,7 @@ DR, Bradford A, Singh H. (2022) **Why Test Results Are Still Getting
 *Journal of General Internal Medicine* 37(1):137-144. Published online
 2021-04-27.
 
-## Before 2022
+## Papers Before 2022
 
 Alkhairy S, Celi LA, Feng M, Zimolzak AJ. (2021) **Acute Kidney Injury
 Detection Using Refined and Phys­i­o­log­i­cal-Fea­ture Augmented Urine
@@ -484,7 +476,9 @@ Zimolzak AJ. **Medication Adherence: How Should We Measure It, and Can
 We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
-# Presentations (national/international)
+# Conference Presentations
+
+## National/International, 2020-present
 
 Sarah Bezek, Sara Ehsan, Andrea Bradford, Andrew Zimolzak, Hardeep
 Singh, Traber Giardina. **Aligning Patient Experience and Clinician
@@ -687,7 +681,7 @@ Patients with Headache or Dizziness Symptoms in Emergency.** Diagnostic
 Error in Medicine 12th Annual International Conference. Washington,
 D.C.; 11/11/2019.
 
-## Research before 2018
+## National/International, before 2020
 
 Brunette CA, Advani S, Hage A, Seo S-J, Miller SJ, Majahalme N, Zimolzak
 AJ, Vassy JL. **Impact of pharmacogenetic testing on statin outcomes:
@@ -785,7 +779,7 @@ Jonikas M, Kohane IS, Mandl KD. **Early Statin Adherence As a Predictor
 of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
-# Presentations (local seminars, course lectures)
+## Local Conference Presentations
 
 Natalia Khalaf, Basim Ali, Andrew J. Zimolzak, Fasiha Kanwal, Hardeep
 Singh. **Potentially Avoidable Emergency Presentations Among Patients
@@ -795,6 +789,116 @@ Application.** BCM QIPS conference.
 Natalia Khalaf, Gabriel Sandoval, Andrew J. Zimolzak, Yan Liu, Hardeep
 Singh. **A Digital Quality Measure for Emergency Presentation of
 Pancreatic Cancer.** BCM QIPS conference.
+
+Sandoval G, Zimolzak AJ, Khalaf N. **A Digital Quality Measure for
+Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
+Medical Center Quality Management and Improvement Summit, selected for
+oral presentation. Houston, 10/15/24.
+
+Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
+Coast Consortia Artificial Intelligence in Healthcare Symposium.
+5/18/2022.
+
+Johnson BR, Fillmore NR, Brophy M, Fiore LD, Elkin PL, Katcher B, Ho
+Y-L, Zimolzak AJ. **Phenotyping Non-Small-Cell Lung Cancer at the VA:
+Cohort and Susceptibility Analysis.** VA Research week. Boston;
+5/18/2017.
+
+Fillmore NR, Zimolzak AJ, Johnson BR, Brophy M, Munshi N. **Ascertaining
+Cases of Multiple Myeloma Using Multiple VA National Structured Data
+Sources.** VA Research week. Boston; 5/18/2017.
+
+# Teaching
+
+**Student Scholarship and Inquiry Project**. 2023-present. Funded as
+faculty for a new curriculum component and course block, designed to
+promote hypothesis-driven medical student scholarship on a mentored
+project, with activities across all 4 years of medical school. Serving
+as a liaison between information technology and students, to construct
+an educational data warehouse extracted from local electronic health
+records, for use in student projects.
+
+**Patient, Physician, and Society** preceptor, Baylor College of
+Medicine 2019-2020.
+
+## Mentoring (long-term contact)
+
+**Jennifer Sloane** (informal). 2022-2025. Postdoctoral fellow in
+cognitive psychology. Mentored in clinical topics and VA data
+environment.
+
+**Theresa Nguyen** (formal). 9/2021-2025. Fellow awarded Department of
+Medicine grant that includes me on mentorship team. Mentoring in VA data
+availability and predictive model application.
+
+**Paarth Kapadia** (informal). 1/2020-2023. MD student at Baylor
+College of Medicine doing year-long research experience. Mentored in
+manuscript preparation, data analysis, regulatory compliance.
+
+**Nathanael Fillmore** (formal). 2016-2017. Nonclinical PhD accepted to
+a VA advanced fellowship. As co-program director for BD-STEP, I was
+responsible for training all fellows regarding clinical topics, the data
+environment, and regulatory compliance. Hired full-time by VA in 2017,
+informal mentoring thereafter. Dr. Fillmore was later promoted to
+director of machine learning at the Boston VA clinical trials center.
+
+**Brett Johnson** (formal). 2016-2017. BD-STEP fellow.
+Responsibilities: see *Fillmore* above. Hired full-time by VA in 2017,
+informal mentoring thereafter.
+
+**Justine Ryu** (formal & informal). 7/2016 research elective, through
+2020 publication. Internal medicine resident at Boston University.
+Mentored in exposure to machine learning techniques, journal submission,
+and revision.
+
+**Sahar Alkhairy** (informal). 2014-2020. Undergraduate and graduate
+student in computer science and molecular biology at MIT. Mentored in
+research record keeping, clinical topics, journal submission, and
+revision.
+
+## Mentoring (short-term contact)
+
+**Adel Hassan** (informal). 2023-2024. Medical student performing
+machine learning analyses. Mentored in clinical topics, VA data
+environment, scientific publication, and regulatory compliance.
+
+**Disha Kumar** (informal). 7/2022-2023. Chief resident in quality and
+safety at VA hospital. Mentored in data retrieval and phenotyping
+strategies to identify inpatients with advanced cirrhosis, and missed
+follow-up of colorectal cancer screening.
+
+**Angela Wu** (informal). 2022. Computer science graduate student
+performing machine learning and natural language processing analyses.
+Mentored in clinical topics, VA data environment, and regulatory
+compliance.
+
+**Freddie Peng** (informal). 2021-2022. Chief resident in quality and
+safety. Mentored in data techniques to identify patients with cirrhosis.
+
+**Angela Rao** (informal). Chief resident in quality and safety.
+Mentored in data techniques to measure usage of an inpatient diabetes
+treatment order set.
+
+**Max Yu** (informal). 12/2021-2022. Computer science undergraduate
+coming on board to assist in analysis. Mentored in clinical topics, VA
+data environment, and regulatory compliance.
+
+## Course Lectures
+
+Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture.
+7/2024.\
+https://zenodo.org/doi/10.5281/zenodo.11393188
+
+Zimolzak AJ. **Electronic Health Record Data for Health Policy
+Research.** Invited lecture to medical students in the health policy
+track. 12/5/2023. https://doi.org/10.5281/zenodo.10267057
+
+Zimolzak AJ. **Working with data sets for translational research.**
+Baylor College of Medicine course "Orientation to Clinical Translational
+Research," course no. GS-GS-6206. Second-year PhD students in the
+Graduate School of Biomedical Sciences. 2023-2025 (3 years).
+
+## Research Seminars
 
 Zimolzak AJ. **Machine Learning to Enhance Electronic Detection of
 Diagnostic Errors.** Invited presentation \[local\]: UTHealth School of
@@ -810,19 +914,6 @@ Zimolzak AJ. **AI and ML History, Definitions, and Pitfalls: An
 Opinionated Overview.** Invited presentation \[local\]: BCM data science
 seminar. December 18, 2024.
 
-Sandoval G, Zimolzak AJ, Khalaf N. **A Digital Quality Measure for
-Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
-Medical Center Quality Management and Improvement Summit, selected for
-oral presentation. Houston, 10/15/24.
-
-Zimolzak AJ. **Electronic Health Record Data Quality.** Lecture.
-7/2024.\
-https://zenodo.org/doi/10.5281/zenodo.11393188
-
-Zimolzak AJ. **Electronic Health Record Data for Health Policy
-Research.** Invited lecture to medical students in the health policy
-track. 12/5/2023. https://doi.org/10.5281/zenodo.10267057
-
 Zimolzak AJ. **Clinical Research Informatics with Applications to
 Diagnostic Safety.** Invited presentation to Patient-Partnered
 Diagnostic Center of Excellence learning community. 8/21/2023.
@@ -830,15 +921,6 @@ Diagnostic Center of Excellence learning community. 8/21/2023.
 Zimolzak AJ. **Is it called Artificial Intelligence, or Machine
 Learning, or something else?** Invited presentation to IQuESt
 methodology core. 5/26/2023.
-
-Zimolzak AJ. **Working with data sets for translational research.**
-Baylor College of Medicine course "Orientation to Clinical Translational
-Research," course no. GS-GS-6206. Second-year PhD students in the
-Graduate School of Biomedical Sciences. 2023-2025 (3 years).
-
-Zimolzak AJ. **Concept embeddings for stroke diagnostic error.** Gulf
-Coast Consortia Artificial Intelligence in Healthcare Symposium.
-5/18/2022.
 
 Zimolzak AJ. **Translating Electronic Health Record-Based Patient Safety
 Algorithms from Research to Clinical Practice.** Invited seminar talk,
@@ -849,70 +931,4 @@ seminar. 2/23/2022.
 Zimolzak AJ. **Data processes and machine learning for health research,
 in the US Department of Veterans Affairs.** Invited seminar talk,
 University of Houston Department of Industrial Engineering. 4/16/2021.
-
-Johnson BR, Fillmore NR, Brophy M, Fiore LD, Elkin PL, Katcher B, Ho
-Y-L, Zimolzak AJ. **Phenotyping Non-Small-Cell Lung Cancer at the VA:
-Cohort and Susceptibility Analysis.** VA Research week. Boston;
-5/18/2017.
-
-Fillmore NR, Zimolzak AJ, Johnson BR, Brophy M, Munshi N. **Ascertaining
-Cases of Multiple Myeloma Using Multiple VA National Structured Data
-Sources.** VA Research week. Boston; 5/18/2017.
-
-# Professional Service
-
-**Faculty Senate,** BCM, 2025-present.\
-**Phenotype Working Group,** part of BCM Department of Medicine Learning
-Health System initiative. 2023-present.\
-**Artificial intelligence Request for applications,** reviewer. BCM-wide
-funding opportunity for AI projects. 2024.\
-**BCM Data Governance Committee,** member. 2024-present.\
-**Internal grant review,** IQuESt. 2023-present. Critiqued faculty and
-career development grants (3).\
-**Faculty candidate interviewer,** IQuESt. 2023-present.\
-**VA CIPHER expert panel,** 2024. Advise on the future direction of the
-Centralized Interactive Phenomics Resource.\
-**Electronic laboratory notebook working group,** Baylor College of
-Medicine. 10/2021-7/2022.\
-**Research Data Security Committee,** IQuESt. 2/2022-present.\
-**House Staff Research Symposium,** reviewer. BCM department of
-medicine. 4/2022.\
-**Methods Analytics and Data Education Initiative,** IQuESt.
-1/2020-present.\
-**Patient, Physician, and Society** preceptor, Baylor College of
-Medicine 2019-2020.\
-**Institutional Review Board,** member, VA Boston Healthcare System.
-9/2017-11/2018.
-
-**BMJ Open,** ad-hoc reviewer. 2025-present.\
-**JAMA Network Open,** ad-hoc reviewer. 2025-present.\
-**Pharmacoepidemiology and Drug Safety,** ad-hoc reviewer.
-2025-present.\
-**Future Oncology,** ad-hoc reviewer. 2025-present.\
-**Diagnosis,** ad-hoc reviewer. 2024-present.\
-**F1000Research,** reviewer. 3/2021-present. See also
-https://f1000research.com/articles/9-1186 .\
-**VA Lung Precision Oncology Project,** grant review section. VA Central
-Office (CSR&D). 9/2020.\
-**JCO Clinical Cancer Informatics,** reviewer. 2/2020-present.\
-**Digital Health,** reviewer. 12/2019-present.\
-**JMIR Research Protocols,** reviewer. 1/2019-present.\
-**Journal of Health Services Research & Policy,** reviewer.
-8/2015-present.\
-**AMIA Annual Symposium,** reviewer. 2015-present.\
-**NEJM Group Open Forum.** Moderator for a forum where authors discuss
-their NEJM articles. 2/2015-3/2015.\
-**PLoS ONE,** reviewer. 11/2012-present.
-
-**Artificial Intelligence in Health** conference, Rice University.
-Reviewer. 9/2025.\
-**Physicians and Social Media: Keeping it Professional.** Planning
-committee member, panel moderator. 9/26/2013.\
-**Critical Data.** Planning committee, participant. "Data marathons" at
-MIT. 1/3/2014-1/7/2014, and 9/5/2014-9/7/2014.\
-**Computing in Cardiology.** Planning committee & reviewer. Three day
-conference for international participants from medicine, physics,
-engineering, and computer science. 9/8/2014-9/10/2014.\
-**Massachusetts American College of Physicians Annual Scientific
-Meeting.** Planning committee, quiz moderator, reviewer. 2014-2016.
 
