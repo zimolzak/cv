@@ -336,6 +336,11 @@ out of the incoming class of about 10,000.
 
 # Publications
 
+Hill MA, Haskell H, Dainty KN, *et al.* **Scoping review of patient and
+family engagement interventions in diagnosis: a paradox of too much, yet
+so little.** *BMJ Qual Saf.* Published online December 23, 2025.
+doi:10.1136/bmjqs-2025-019145
+
 Olson APJ, Sloane J, Zimolzak A, *et al.* **A framework for defining
 diagnostically challenging conditions identifiable through electronic
 algorithms.** *Diagnosis (Berl).* Published online October 27, 2025.
@@ -364,15 +369,15 @@ Zimolzak AJ, Singh H. **Implementation of Electronic Triggers to
 Identify Diagnostic Errors in Emergency Departments.** *JAMA Intern
 Med.* 2025;185(2):143-151.
 
-Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
-Series Collaborative for Missed Test Results: A Stepped-Wedge
-Cluster-Randomized Clinical Trial.** *JAMA Netw Open.*
-2024;7(10):e2440269. Published 2024 Oct 1.
-
 Zimolzak AJ, Khan SP, Singh H, Davila JA. **Application of a digital
 quality measure for cancer diagnosis in Epic Cosmos.** *J Am Med Inform
 Assoc.* 2025;32(1):227-229. Paper was selected as a *JAMIA* "Editor's
 Choice" article.
+
+Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
+Series Collaborative for Missed Test Results: A Stepped-Wedge
+Cluster-Randomized Clinical Trial.** *JAMA Netw Open.*
+2024;7(10):e2440269. Published 2024 Oct 1.
 
 Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
 Electronic Detection of Diagnostic Errors.** *JAMA Netw Open.*
@@ -380,36 +385,37 @@ Electronic Detection of Diagnostic Errors.** *JAMA Netw Open.*
 
 Kapadia P, Zimolzak AJ, Upadhyay DK, *et al.* **Development and
 Implementation of a Digital Quality Measure of Emergency Cancer
-Diagnosis.** J Clin Oncol. 2024;42(21):2506-2515.
+Diagnosis.** *J Clin Oncol.* 2024;42(21):2506-2515.
 
 Honerlaw J, Ho YL, Fontin F, Gosian J, Maripuri M, Murray M, Sangar R,
 Galloway A, Zimolzak AJ, Whitbourne SB, Casas JP, Ramoni RB, Gagnon DR,
 Cai T, Liao KP, Gaziano JM, Muralidhar S, Cho K. **Framework of the
 Centralized Interactive Phenomics Resource (CIPHER) standard for
-electronic health data-based phenomics knowledgebase.** J Am Med Inform
-Assoc. 2024;31(5):1126-1134.
+electronic health data-based phenomics knowledgebase.** *J Am Med Inform
+Assoc.* 2024;31(5):1126-1134.
 
 Murphy DR, Zimolzak AJ, Upadhyay DK, Wei L, Jolly P, Offner A, Sittig
 DF, Korukonda S, Rekha RM, Singh H. **Developing electronic clinical
-quality measures to assess the cancer diagnostic process.** J Am Med
-Inform Assoc. 2023 Aug 18;30(9):1526-1531.
+quality measures to assess the cancer diagnostic process.** *J Am Med
+Inform Assoc.* 2023 Aug 18;30(9):1526-1531.
 
 Zimolzak AJ, Davila JA, Punugoti V, *et al.* **Lessons learned from an
-enterprise-wide clinical datathon.** J Clin Transl Sci. 2022;6(1):e125.
+enterprise-wide clinical datathon.** *J Clin Transl Sci.*
+2022;6(1):e125.
 
 Meyer AND, Singh H, Zimolzak AJ, *et al.* **Cancer Evaluations During
 the COVID-19 Pandemic: An Observational Study Using National Veterans
-Affairs Data.** Am J Prev Med. 2022;63(6):1026-1030.
+Affairs Data.** *Am J Prev Med.* 2022;63(6):1026-1030.
 
 Zimolzak AJ, Singh H, Murphy DR, *et al.* (2022) **Translating
 electronic health record-based patient safety algorithms from research
-to clinical practice at multiple sites.** BMJ Health Care Inform
+to clinical practice at multiple sites.** *BMJ Health Care Inform*
 29(1):e100565.
 
 Zimolzak AJ, Shahid U, Giardina T, Memon S, Mushtaq U, Zubkoff L, Murphy
 DR, Bradford A, Singh H. (2022) **Why Test Results Are Still Getting
 "Lost" to Follow-up: A Qualitative Study of Implementation Gaps.**
-Journal of General Internal Medicine 37(1):137-144. Published online
+*Journal of General Internal Medicine* 37(1):137-144. Published online
 2021-04-27.
 
 ## Before 2022
@@ -479,6 +485,32 @@ We Detect It Early?** Harvard Medical School, Master of Medical Science
 thesis, 5/17/2013.
 
 # Presentations (national/international)
+
+Sarah Bezek, Sara Ehsan, Andrea Bradford, Andrew Zimolzak, Hardeep
+Singh, Traber Giardina. **Aligning Patient Experience and Clinician
+Priorities to Address Diagnostic Error in a Safety-Net Emergency
+Department.** DEX25. Ann Arbor, September 2025.
+
+Rachel Zastrow, Eva Chang, Pablo Garcia, Danielle McDaniel, May Boyle,
+Sharyl Sher, Daniel Murphy, Andrew Zimolzak, Hardeep Singh, Traber
+Giardina, Andrea Bradford. **Integrating Electronic Triggers
+(e-Triggers) in Organizational Patient Safety Workflows.** DEX25. Ann
+Arbor, September 2025.
+
+Rachel Zastrow, Eva Chang, Pablo Garcia, Danielle McDaniel, May Boyle,
+Sharyl Sher, Daniel Murphy, Andrea Bradford, Hardeep Singh, Traber
+Giardina, Andrew Zimolzak. **From Research to Practice: Development and
+Validation of Diagnostic Error: E-triggers in a Large Health System.**
+DEX25. Ann Arbor, September 2025.
+
+Gabriel Sandoval, Paarth Kapadia, Andrew J. Zimolzak, Yan Liu, Hardeep
+Singh, Natalia Khalaf. **A Digital Quality Measure for Emergency
+Presentation of Pancreatic Cancer.** Digestive Disease Week (DDW).
+Chicago, 5/6/2025.
+
+Zimolzak AJ. **Machine Learning for Enhanced Electronic Trigger
+Detection of Diagnostic Errors.** VA Method Advisory Council. January
+29, 2025. Invited presentation \[national\].
 
 Zimolzak A, Zastrow R, Bezek S, Bradford A, Mir U, Ehsan S, Vaghani V,
 Sittig D, Singh H. **Translating Electronic Trigger Tools to Partner
@@ -655,6 +687,8 @@ Patients with Headache or Dizziness Symptoms in Emergency.** Diagnostic
 Error in Medicine 12th Annual International Conference. Washington,
 D.C.; 11/11/2019.
 
+## Research before 2018
+
 Brunette CA, Advani S, Hage A, Seo S-J, Miller SJ, Majahalme N, Zimolzak
 AJ, Vassy JL. **Impact of pharmacogenetic testing on statin outcomes:
 Primary results from the Integrating Pharmacogenetics in Clinical Care
@@ -752,6 +786,29 @@ of Later Adherence.** American Medical Informatics Association Summit on
 Clinical Research Informatics. San Francisco; 3/20/2013.
 
 # Presentations (local seminars, course lectures)
+
+5\. Natalia Khalaf, MD, MPH, Basim Ali, MD, Andrew J. Zimolzak MD, MMSc,
+Fasiha Kanwal, MD, MSHS, Hardeep Singh, MD, MPH. Potentially Avoidable
+Emergency Presentations Among Patients with Colorectal Cancer: Digital
+Quality Measure Enhancement and Application. BCM QIPS conference.
+
+6\. Natalia Khalaf, MD, MPH, Gabriel Sandoval, MD, Andrew J. Zimolzak
+MD, MMSc, Yan Liu, MS, Hardeep Singh, MD, MPH. A Digital Quality Measure
+for Emergency Presentation of Pancreatic Cancer. BCM QIPS conference.
+
+8\. Invited presentation \[local\]: UTHealth School of Biomedical
+Informatics, research seminar. November 19, 2025. Machine Learning to
+Enhance Electronic Detection of Diagnostic Errors.
+
+9\. Invited presentation \[local\]: BCM data science seminar. April 16,
+2025. Applications of Epic Cosmos.
+
+10\. Invited presentation \[local\]: BCM Love Data Week. February 12,
+2025. Applications of Epic Cosmos.
+
+Invited presentation \[local\]: BCM data science seminar. December 18,
+2024. AI and ML History, Definitions, and Pitfalls: An Opinionated
+Overview.
 
 Sandoval G, Zimolzak AJ, Khalaf N. **A Digital Quality Measure for
 Emergency Presentation of Pancreatic Cancer.** Michael E. DeBakey VA
