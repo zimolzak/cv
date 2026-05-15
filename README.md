@@ -194,7 +194,10 @@ CCP, valid through 12/31/2029.\
 exp 1/31/2027\
 **USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
 Step 3 5/2010.\
-**ACLS and BLS** certified (exp 2/29/2028).
+**ACLS and BLS** certified (exp 2/29/2028).\
+**ORCID:** 0000-0003-0973-5639\
+**NCBI Bibliography:**
+www.ncbi.nlm.nih.gov/myncbi/andrew.zimolzak.1/bibliography/public/
 
 # Research Support
 
@@ -327,6 +330,10 @@ Medicine. 10/2021-7/2022.\
 Physicians, 9/2011-2015.
 
 # Full Papers in Peer-Reviewed Journals
+
+Khalaf N, Sandoval G, Zimolzak AJ, Kapadia P, Liu Y, Singh H. **A
+digital quality measure for emergency presentation of pancreatic
+cancer.** *Br J Cancer.* 2026;134(8):1209-1217.
 
 Hill MA, Haskell H, Dainty KN, *et al.* **Scoping review of patient and
 family engagement interventions in diagnosis: a paradox of too much, yet
