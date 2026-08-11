@@ -34,11 +34,11 @@ Clinical and Translational Research, 11/12/2018-present. **Assistant
 professor,** Baylor College of Medicine. I am a practicing physician
 with significant personal experience writing reusable **database,
 statistical, and machine learning** computer code for research. I unify
-large collections of fragmented data elements to into clinically
-meaningful concepts, thus making diverse clinical research studies
-possible. This work is known by several names: *secondary use* of
-electronic health record data, *clinical research informatics,* or
-*phenotyping.* I interpret clinical language and systems for data pull
+large collections of fragmented data elements into clinically meaningful
+concepts, thus making diverse clinical research studies possible. This
+work is known by several names: *secondary use* of electronic health
+record data, *clinical research informatics,* or *phenotyping.* I
+interpret clinical language and systems for data pull
 engineers/analysts, or vice versa (interpreting technical language for
 clinical investigators). I access a data warehouse covering more than 20
 million unique individuals, and billions of observations, from 1999 to
