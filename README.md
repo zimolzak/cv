@@ -32,7 +32,7 @@ MMSc in Medical Informatics.
 Effectiveness and Safety (IQuESt), and at the Baylor Institute for
 Clinical and Translational Research, 11/12/2018-present. **Assistant
 professor,** Baylor College of Medicine. I am a practicing physician
-with with significant personal experience writing reusable **database,
+with significant personal experience writing reusable **database,
 statistical, and machine learning** computer code for research. I unify
 large collections of fragmented data elements to into clinically
 meaningful concepts, thus making diverse clinical research studies
