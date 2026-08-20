@@ -487,6 +487,11 @@ thesis, 5/17/2013.
 
 ## National/International, 2020-present
 
+Vaghani V, Bezek S, Zastrow R, Zimolzak AJ, Bradford A, Buehler G, Wei
+L, Singh H. **A Multicenter Electronic Trigger to Identify Missed
+Opportunities in Diagnosis During Emergency Department Boarding.**
+DEX26. Boston, October 6 2026.
+
 Sarah Bezek, Sara Ehsan, Andrea Bradford, Andrew Zimolzak, Hardeep
 Singh, Traber Giardina. **Aligning Patient Experience and Clinician
 Priorities to Address Diagnostic Error in a Safety-Net Emergency
