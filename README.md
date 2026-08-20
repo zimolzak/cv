@@ -206,10 +206,6 @@ Health.** NCATS. 09/01/2024-07/31/2031. 1 UM1 TR004539-01A1. \$44.2
 million. One of many senior/key personnel funded on this large,
 multi-institution Clinical and Translational Science Award.
 
-Co-Investigator: **A Health Informatics Approach to Reduce Missed
-Opportunities for Barrett's Esophagus Screening.** American College of
-Gastroenterology. 07/01/2023-06/30/2026. Amount: \$450,000.
-
 Co-Investigator: **Diagnostic Safety Center for Advancing E-triggers and
 Rapid Feedback Implementation (DISCOVERI).** AHRQ R18.
 10/01/2022-09/30/2026. 1 R18 HS029347-01. Amount: \$3,999,998. Drafted
@@ -218,6 +214,10 @@ integrating sections, completing sections, and finalizing with
 administrators.
 
 ## Completed Research Support
+
+Co-Investigator: **A Health Informatics Approach to Reduce Missed
+Opportunities for Barrett's Esophagus Screening.** American College of
+Gastroenterology. 07/01/2023-06/30/2026. Amount: \$450,000.
 
 Co-Investigator: **Houston Patient Safety Center of Inquiry: Diagnosis
 Improvement Safety Center (DISCovery).** VHA National Center for Patient
@@ -331,24 +331,24 @@ Physicians, 9/2011-2015.
 
 # Full Papers in Peer-Reviewed Journals
 
-Khalaf N, Sandoval G, Zimolzak AJ, Kapadia P, Liu Y, Singh H. **A
-digital quality measure for emergency presentation of pancreatic
-cancer.** *Br J Cancer.* 2026;134(8):1209-1217.
-
 Hill MA, Haskell H, Dainty KN, *et al.* **Scoping review of patient and
 family engagement interventions in diagnosis: a paradox of too much, yet
 so little.** *BMJ Qual Saf.* Published online December 23, 2025.
 doi:10.1136/bmjqs-2025-019145
 
-Olson APJ, Sloane J, Zimolzak A, *et al.* **A framework for defining
-diagnostically challenging conditions identifiable through electronic
-algorithms.** *Diagnosis (Berl).* Published online October 27, 2025.
-doi:10.1515/dx-2025-0034
-
 Khalaf N, Ali B, Zimolzak A, *et al.* **Digital quality measure of
 potentially avoidable emergency presentations among patients with
 colorectal cancer.** *BMJ Qual Saf.* Published online October 9, 2025.
 doi:10.1136/bmjqs-2025-019084
+
+Khalaf N, Sandoval G, Zimolzak AJ, Kapadia P, Liu Y, Singh H. **A
+digital quality measure for emergency presentation of pancreatic
+cancer.** *Br J Cancer.* 2026;134(8):1209-1217.
+
+Olson APJ, Sloane J, Zimolzak A, *et al.* **A framework for defining
+diagnostically challenging conditions identifiable through electronic
+algorithms.** *Diagnosis (Berl).* Published online October 27, 2025.
+doi:10.1515/dx-2025-0034
 
 Zimolzak AJ, Kapadia P, Upadhyay DK, *et al.* **Frequent Missed
 Opportunities for Earlier Diagnosis of Advanced-Stage Colorectal or Lung
