@@ -338,7 +338,7 @@ doi:10.1136/bmjqs-2025-019145
 
 Khalaf N, Ali B, Zimolzak A, *et al.* **Digital quality measure of
 potentially avoidable emergency presentations among patients with
-colorectal cancer.** *BMJ Qual Saf.* Published online October 9, 2025.
+colorectal cancer.** *BMJ Qual Saf.* 2026 May 18;35(6):380-392.
 doi:10.1136/bmjqs-2025-019084
 
 Khalaf N, Sandoval G, Zimolzak AJ, Kapadia P, Liu Y, Singh H. **A
@@ -376,11 +376,11 @@ Choice" article.
 Zubkoff L, Zimolzak AJ, Meyer AND, *et al.* **A Virtual Breakthrough
 Series Collaborative for Missed Test Results: A Stepped-Wedge
 Cluster-Randomized Clinical Trial.** *JAMA Netw Open.*
-2024;7(10):e2440269. Published 2024 Oct 1.
+2024;7(10):e2440269.
 
 Zimolzak AJ, Wei L, Mir U, *et al.* **Machine Learning to Enhance
 Electronic Detection of Diagnostic Errors.** *JAMA Netw Open.*
-2024;7(9):e2431982. Published 2024 Sep 3.
+2024;7(9):e2431982.
 
 Kapadia P, Zimolzak AJ, Upadhyay DK, *et al.* **Development and
 Implementation of a Digital Quality Measure of Emergency Cancer
@@ -491,6 +491,14 @@ Vaghani V, Bezek S, Zastrow R, Zimolzak AJ, Bradford A, Buehler G, Wei
 L, Singh H. **A Multicenter Electronic Trigger to Identify Missed
 Opportunities in Diagnosis During Emergency Department Boarding.**
 DEX26. Boston, October 6 2026.
+
+Zastrow R, Chang E, Zimolzak AJ, Bradford A, Vaghani V, Singh H.
+**Leveraging Structured Review to Develop an Enterprise Diagnostic Error
+Dashboard and Drive Improvement** DEX26. Boston, October 6 2026.
+
+Zastrow R, Chang E, Zimolzak AJ, Bradford A, Vaghani V, Singh H.
+**Development and Integration of Two Diagnostic Error Electronic
+Triggers in a Large Health System** DEX26. Boston, October 6 2026.
 
 Sarah Bezek, Sara Ehsan, Andrea Bradford, Andrew Zimolzak, Hardeep
 Singh, Traber Giardina. **Aligning Patient Experience and Clinician
@@ -904,7 +912,7 @@ track. 12/5/2023. https://doi.org/10.5281/zenodo.10267057
 Zimolzak AJ. **Working with data sets for translational research.**
 Baylor College of Medicine course "Orientation to Clinical Translational
 Research," course no. GS-GS-6206. Second-year PhD students in the
-Graduate School of Biomedical Sciences. 2023-2025 (3 years).
+Graduate School of Biomedical Sciences. 2023-2026 (4 years).
 
 ## Research Seminars
 
