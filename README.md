@@ -186,15 +186,15 @@ out of the incoming class of about 10,000.
 participating in MOC.\
 **Clinical Informatics** board-certified 1/1/2014 (ABPM), completed 2023
 CCP, valid through 12/31/2029.\
-**Texas** full medical license 8/24/2018-present. No. R8850, exp
-8/31/2026.\
+**Texas** full medical license 8/24/2018-present. No. R8850,
+exp. 8/31/2028.\
 **Massachusetts** full medical license 7/20/2011-present. No. 249050
-(inactive), exp 11/21/2027.\
+(inactive), exp. 11/21/2027.\
 **Missouri** full medical license 6/25/2010-present. No. 2010020878,
-exp 1/31/2027\
+exp. 1/31/2027\
 **USMLE**: passed Step 1 6/2005, Step 2 CS 4/2007, Step 2 CK 4/2007,
 Step 3 5/2010.\
-**ACLS and BLS** certified (exp 2/29/2028).\
+**ACLS and BLS** certified (exp. 9/30/2028).\
 **ORCID:** 0000-0003-0973-5639\
 **NCBI Bibliography:**
 www.ncbi.nlm.nih.gov/myncbi/andrew.zimolzak.1/bibliography/public/
